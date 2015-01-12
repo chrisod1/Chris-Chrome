@@ -4,67 +4,13 @@
 #######################################################################################################################################
 
 <info>
-<message></message>
-<thumbnail></thumbnail>
+<message>Story teller 1988</message>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxQSpFZ-ukYgB4AbBqnhtU5Om3Eo6B4t1S9C8-qqtXLcFhCFpuWw</thumbnail>
 </info>
 
 
 #######################################################################################################################################
 
-
-<dir>
-<name>[COLOR lime]ALL[/COLOR] [COLOR aqua]New Additions This Week[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/All%20New%20Additions%20This%20Week.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Movies[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Episodes[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Fights[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Fights.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Comedy[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20%20Week's%20Comedy.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Documentaries[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Directories[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Fillers[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Fillers.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]Latest Episodes[/COLOR]  [COLOR red]ON AIR[/COLOR]</name>
-<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Shows/Sections/Latest%20Episodes.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/latest.png</thumbnail>
-</dir>
 
 
 
@@ -72,45 +18,10 @@
 
 
 
-
-
-<dir>
-<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
-<thumbnail>nill</thumbnail>
-</dir>
-
-[COLOR lime]Latest[/COLOR] 
- [COLOR blue][/COLOR]
-
- 
-
-
-
 <item>
-<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
-<thumbnail>nill</thumbnail>
-</item>
-
-[COLOR lime]Latest[/COLOR] 
- [COLOR lime]Theatre Premiere[/COLOR]
- [COLOR lime]Pre-Release[/COLOR]
- [COLOR lime]Upgrade[/COLOR]
-[COLOR red]Coming Tonight >>>[/COLOR] 
-
-
-<item>
-<title>[COLOR lime]Latest[/COLOR] Jim hensons story teller [COLOR lime]Upgrade[/COLOR]</title>
-<link>
-<sublink>http://movreel.com/sqrcg25b19jw.html</sublink>
-<sublink>http://mrfile.me/f2xl8z0iaheu</sublink>
-<sublink>http://billionuploads.com/bfa2bny0assf</sublink>
-<sublink>http://movreel.com/btqd63nbgfvs</sublink>
-<sublink>http://hugefiles.net/jslnk8btnatc</sublink>
-<sublink>http://180upload.com/vasmuhei1wf9</sublink>
-</link>
-<thumbnail>http://40.media.tumblr.com/tumblr_m4ychb76dk1qzr8nao1_1280.jpg</thumbnail>
+<title>[COLOR lime]Jim hensons story teller[/COLOR]</title>
+<link>http://movreel.com/sqrcg25b19jw.html</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhDL3_VVGxfF6wqTXEndv0RhomWRQwMybuZsNoVxVJc70jafK3uQ</thumbnail>
 </item>
 
 <item>
