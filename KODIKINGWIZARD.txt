@@ -1,0 +1,23 @@
+name="Addons 1"
+url="http://copy.com/WbatGuco46MFkoWA/all%20other%20units.zip"
+img="http://droidbox.co.uk/xbmc/AndroidSticks/images/main.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
+description="Core addons pack"
+
+name="M8 Addons packkodi king"
+url="http://copy.com/fucWIEf72BH2iVA9/M8%20addons.zip"
+img="http://postimg.org/image/6cuqkxq2b/"
+fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
+description="M8 Addons pack"
+
+name="X-Rated addons pack"
+url="http://www.copy.com/UuAYxaCxwFuZYw44/XXX.zip"
+img="http://droidbox.co.uk/xbmc/AndroidSticks/images/x-rated.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
+description="Core addons pack"
+
+name="Unblocked"
+url="https://onedrive.live.com/download?resid=31A7E82E3F3CBB79%21194"
+img="http://droidbox.co.uk/xbmc/AndroidSticks/images/unblocked.png"
+fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
+description="Unblocked"
