@@ -1,6 +1,6 @@
 name="Older boxes"
 url="http://copy.com/WbatGuco46MFkoWA/all%20other%20units.zip"
-img="http://droidbox.co.uk/xbmc/AndroidSticks/images/main.jpg"
+img="http://s1.postimg.org/xa9w9y15r/m8_t8_image.jpg"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="Core addons pack"
 
@@ -12,7 +12,7 @@ description="M8 Addons pack"
 
 name="X-Rated addons pack"
 url="http://www.copy.com/UuAYxaCxwFuZYw44/XXX.zip"
-img="http://droidbox.co.uk/xbmc/AndroidSticks/images/x-rated.jpg"
+img="http://s1.postimg.org/xa9w9y15r/m8_t8_image.jpg"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="Core addons pack"
 
