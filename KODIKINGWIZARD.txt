@@ -6,7 +6,7 @@ description="Core addons pack"
 
 name="M8 Addons packkodi king"
 url="http://copy.com/fucWIEf72BH2iVA9/M8%20addons.zip"
-img="http://postimg.org/image/6cuqkxq2b/"
+img="http://s30.postimg.org/6g0cmuyhd/m8_t8_image.jpg"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="M8 Addons pack"
 
@@ -18,6 +18,6 @@ description="Core addons pack"
 
 name="Unblocked"
 url="https://onedrive.live.com/download?resid=31A7E82E3F3CBB79%21194"
-img="http://droidbox.co.uk/xbmc/AndroidSticks/images/unblocked.png"
+img="http://s30.postimg.org/6g0cmuyhd/m8_t8_image.jpg"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="Unblocked"
