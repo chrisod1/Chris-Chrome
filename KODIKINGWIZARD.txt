@@ -5,7 +5,7 @@ fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="Core addons pack"
 
 name="M8/T8 Newer boxes"
-url="http://copy.com/tZBdRlcrXONznQmK/M8%20addons.zip"
+url="http://copy.com/fucWIEf72BH2iVA9/M8%20addons.zip"
 img="http://s27.postimg.org/auy57t1oz/image.jpg"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="M8 Addons pack"
