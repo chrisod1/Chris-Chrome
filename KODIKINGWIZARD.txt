@@ -6,7 +6,7 @@ description="Core addons pack"
 
 name="M8 Addons packkodi king"
 url="http://copy.com/fucWIEf72BH2iVA9/M8%20addons.zip"
-img="http://s30.postimg.org/6g0cmuyhd/m8_t8_image.jpg"
+img="http://s1.postimg.org/xa9w9y15r/m8_t8_image.jpg"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="M8 Addons pack"
 
