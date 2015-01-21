@@ -6,7 +6,7 @@ description="M8 Addons pack"
 
 name="All other boxes"
 url="http://www.copy.com/UuAYxaCxwFuZYw44/XXX.zip"
-img="http://s1.postimg.org/xa9w9y15r/m8_t8_image.jpg"
+img="http://s13.postimg.org/59rursw4n/all_other.png"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="Core addons pack"
 
