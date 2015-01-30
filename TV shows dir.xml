@@ -1,6 +1,6 @@
 #######################################################################################################################################
-<poster>djjohnnyb15</poster>
-<fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
+<poster>Kodi King</poster>
+<fanart>http://s30.postimg.org/3le82lg1t/fanart.jpg</fanart>
 #######################################################################################################################################
 
  
@@ -10,47 +10,16 @@
 #####################################################################################################################
 
 <dir>
-<name>[COLOR green]Arrow[/COLOR]</name>
+<name>[COLOR blue]Jim Hensons The Storyteller (1988)[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/arrow/ArrowDirectory.xml</link>
 <thumbnail>http://s8.postimg.org/cvizkeut1/MV5_BMTg3_OTc0_Nzky_OV5_BMl5_Ban_Bn_Xk_Ft_ZTgw_MDMw_MTM3_Mj_E.jpg</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR gold]Gold Rush[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/goldrush/goldrushDirectory.xml</link>
-<thumbnail>http://s27.postimg.org/vbg4y3ysj/gold_rush.png</thumbnail>
-</dir>
-
-<dir>
-<name>Ice Road Truckers</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/iceroad/iceroad.xml</link>
-<thumbnail>http://s16.postimg.org/w7aqkjnad/Iceroadtruckerslogo.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>NCIS: Los Angeles</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/ncisla/ncislaDirectory.xml.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/95441-2.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Flash 2014</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/theflash/theflashDirectory.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/279121-4.jpg</thumbnail>
-</dir>
 
 
-<dir>
-<name>The Walking Dead </name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/thewalkingdead/TheWalkingDeadDirectory.xml</link>
-<thumbnail>http://s7.postimg.org/x3v7gcwor/The_Walking_Dead_title_card.jpg</thumbnail>
-</dir>
 
-<dir>
-<name>The 100</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/the100/The100Directory.xml</link>
-<thumbnail>http://s29.postimg.org/quwi7onlj/MV5_BMTU5_MTcz_NTkx_Nl5_BMl5_Ban_Bn_Xk_Ft_ZTgw_NTM5_NDc1_MTE.jpg</thumbnail>
-</dir>
+
+
 
 
 
