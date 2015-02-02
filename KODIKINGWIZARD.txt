@@ -5,7 +5,7 @@ fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="Addons pack"
 
 name="Check out Kodi King TV"
-url="https://onedrive.live.com/download?resid=CBA4A40BEFF2B00A%21435"
+url="https://onedrive.live.com"
 img="http://s30.postimg.org/4watfvkch/kktv.png"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="Unblocked"
