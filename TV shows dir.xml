@@ -10,18 +10,16 @@
 #####################################################################################################################
 
 <dir>
-<name>[COLOR blue]Jim Hensons The Storyteller (1988)[/COLOR]</name>
-<link>https://raw.githubusercontent.com/chrisod1/IDJ4Y/master/KKtv%20Story%20teller.xml</link>
-<thumbnail>http://ifanboy.com/wp-content/uploads/2011/12/Storyteller-Cover.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>[COLOR blue]Phoenix nights (2001)[/COLOR]</name>
 <link>https://raw.githubusercontent.com/chrisod1/IDJ4Y/master/Phoenix%20nights%20KKTV</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/51YE935S52L.jpg</thumbnail>
 </dir>
 
-
+<dir>
+<name>[COLOR blue]Better Call Saul (2015)[/COLOR]</name>
+<link>https://raw.githubusercontent.com/chrisod1/IDJ4Y/master/Phoenix%20nights%20KKTV</link>
+<thumbnail>http://i1.cdnds.net/15/06/618x949/comics-better-call-saul-client-development-comic.jpg</thumbnail>
+</dir>
 
 
 
