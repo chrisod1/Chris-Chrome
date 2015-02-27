@@ -4,7 +4,7 @@ img="http://s30.postimg.org/fvwkliw01/main_addons.jpg"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="Addons pack"
 
-name="Main addons Back up Link"
+name="Main addons Back up Link."
 url="http://copy.com/qTZY7ZyPlEVP6g8s/...new.zip"
 img="http://s30.postimg.org/fvwkliw01/main_addons.jpg"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
