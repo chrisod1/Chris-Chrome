@@ -1,5 +1,5 @@
 name="Main Addons"
-url="https://onedrive.live.com/download?resid=CBA4A40BEFF2B00A%21444"
+url="http://copy.com/Nqz3FXAtuP3ZmV2E/wizard1.zip"
 img="http://s30.postimg.org/fvwkliw01/main_addons.jpg"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="Addons pack"
