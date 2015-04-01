@@ -1,10 +1,10 @@
-name="Main Addons"
+name="Arctic Zephyr Theme"
 url="http://copy.com/Nqz3FXAtuP3ZmV2E/wizard1.zip"
 img="http://s12.postimg.org/vre0l7sod/mainadddddd.png"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="Addons pack"
 
-name="Main addons Back up Link."
+name="Aeon Nox Theme"
 url="http://copy.com/qTZY7ZyPlEVP6g8s/...new.zip"
 img="http://s24.postimg.org/x29bndexh/maanback.png"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
