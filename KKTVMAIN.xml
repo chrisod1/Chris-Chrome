@@ -1,5 +1,5 @@
 #######################################################################################################################################
-<poster>Kodi King TV</poster>
+<poster>Kodi King</poster>
 <fanart>http://s11.postimg.org/dspllh43n/fanart.jpg</fanart>
 #######################################################################################################################################
 
@@ -8,12 +8,12 @@
 
 
 #####################################################################################################################
-<name>[COLOR blue]TWITTER REQUESTS[/COLOR]</name>
+<name>[COLOR blue]DISNEY MOVIES[/COLOR]</name>
 <link>https://raw.githubusercontent.com/chrisod1/IDJ4Y/master/MoviesKKtv.xml</link>
 <thumbnail>http://s23.postimg.org/kxcf43sff/main_addons.png</thumbnail>
-<date>DIJ</date>
+<date>123</date>
 
-<name>[COLOR blue]MOVIES[/COLOR]</name>
+<name>[COLOR blue]MY FAVOURITES[/COLOR]</name>
 <link>https://raw.githubusercontent.com/chrisod1/IDJ4Y/master/MoviesKKtv.xml</link>
 <thumbnail>http://s29.postimg.org/qr0awzxhz/popcorn_7.png</thumbnail>
 <date>DIJ</date>
