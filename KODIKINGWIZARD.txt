@@ -1,6 +1,6 @@
 name="Arctic Zephyr mod Theme OCT 2015"
 url="https://onedrive.live.com/download?resid=CBA4A40BEFF2B00A!450&authkey=!AJT01wy0HeGw2Ys&ithint=file%2czip"
-img="http://s28.postimg.org/rxhwr52ql/1940663.png"
+img="http://s2.postimg.org/t31bz63nt/1940663.png"
 fanart="https://dl.dropboxusercontent.com/u/24282292/xbmc/fanart.jpg"
 description="Artic"
 
