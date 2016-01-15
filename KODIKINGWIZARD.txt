@@ -16,7 +16,7 @@ description="heisenberg"}
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="Predator Build"\
 url="https://archive.org/download/kodiebay/kodiebay.zip"
-img="http://postimg.org/image/3nt43q71z/"\
-fanart="http://postimg.org/image/lgticg5oz/"\
+img="https://archive.org/download/chris_od1_hotmail_1_201601/1.jpg"\
+fanart="https://archive.org/download/chris_od1_hotmail_2/2.jpg"\
 description="fire"}
 
