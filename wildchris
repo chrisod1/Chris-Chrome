@@ -1,11 +1,11 @@
 <channels>
 
 <channel>
-      <name>[COLOR red][COLOR red]R[/COLOR]ECOMMENDED MOVIE[COLOR red]S[/COLOR][/COLOR]</name>
+      <name>[COLOR red]R[/COLOR]ECOMMENDED MOVIE[COLOR red]S[/COLOR][/COLOR]</name>
   <thumbnail>http://s11.postimg.org/j77n8vter/pris.png</thumbnail>
   <fanart>http://www.psdgraphics.com/file/like.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV/master/movies2015</externallink>
+   <externallink>https://raw.githubusercontent.com/chrisod1/Chris-Chrome/master/Recommended.xml</externallink>
 </channel>
 </channel>
 
