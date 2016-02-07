@@ -1,0 +1,179 @@
+<channels>
+
+<channel>
+      <name>[COLOR deepskyblue]Welcome to Wild TV Premium[/COLOR]</name>
+  <thumbnail>http://www.kodiland.co/kodi/premium/icon.png</thumbnail>
+</channel>
+
+<channel>
+      <name>[COLOR pink]Donate to us at http://donate.kodiland.co[/COLOR]</name>
+  <thumbnail>http://static.wixstatic.com/media/36fcbf_a4f6664d3f46485b83bd71828974179f.gif</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV/master/movies2015</externallink>
+</channel>
+
+<channel>
+      <name>[COLOR lime]Movies + Collections[/COLOR]</name>
+  <thumbnail>http://ftp.tldsb.on.ca/wp-content/uploads/sites/5/2015/04/Movie-Club-logo.png</thumbnail>
+<fanart>http://vignette2.wikia.nocookie.net/pixar/images/c/ca/Bugs_life_ver5_xlg.jpg/revision/latest?cb=20110515135005</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/chrisod1/Chris-Chrome/master/prison%20movies</externallink>
+</channel>
+
+<channel>
+<name>[COLOR lime]Kids[/COLOR]</name>
+<thumbnail>http://jbatt.com/wordpress/wp-content/uploads/2011/07/capital-kids-logo-for-powerpoint.jpg</thumbnail>
+<fanart>http://jbatt.com/wordpress/wp-content/uploads/2011/07/capital-kids-logo-for-powerpoint.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/chrisod1/Chris-Chrome/master/DISNEY%20MOVIES.xml</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR lime]UK Stand Up Archive[/COLOR]</name>
+<thumbnail>http://blogs.kent.ac.uk/isnews/files/2015/01/BSUCA-logo.png</thumbnail>
+<fanart>http://blogs.kent.ac.uk/isnews/files/2015/01/BSUCA-logo.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV-premium./master/ukstandup</externallink>
+</channel>
+
+
+  
+<channel>
+      <name>[COLOR lime]Live TV[/COLOR]</name>
+  <thumbnail>http://cdn.livetvcdn.net/img/oglogo.png</thumbnail>
+<fanart>http://cdn.livetvcdn.net/img/oglogo.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV-premium./master/uktvnow.m3u</externallink>
+</channel>
+  </channels>
+  
+  <channel>
+      <name>[COLOR lime]Fitness[/COLOR]</name>
+  <thumbnail>http://www.vgdrc.com/wp-content/uploads/2015/11/Fitness-logo.png</thumbnail>
+<fanart>http://www.vgdrc.com/wp-content/uploads/2015/11/Fitness-logo.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV-premium./master/fitness</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR lime]Geordie[/COLOR]</name>
+  <thumbnail>http://express-conveyancing.co.uk/wp-content/uploads/2014/02/conveyancing-newcastle-upon-tyne.jpg</thumbnail>
+<fanart>http://express-conveyancing.co.uk/wp-content/uploads/2014/02/conveyancing-newcastle-upon-tyne.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV/master/gerodie</externallink>
+</channel>
+  </channels>
+  
+  <channel>
+<name>[COLOR lime]24/7 streams[/COLOR]</name>
+<thumbnail>http://www.americanveteranrestoration.com/images/AVR-Images/24-7logo400.jpg</thumbnail>
+<fanart>http://orig04.deviantart.net/11b9/f/2009/055/b/b/24_7_by_sokka06.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/247</externallink>
+</channel>
+  
+
+  <channel>
+      <name>[COLOR lime]Youtube[/COLOR]</name>
+  <thumbnail>http://www.wsiu.org/images/photos/RREE/youtube-logo-icon-2014HD.png</thumbnail>
+<fanart>http://wallpoper.com/images/00/32/90/00/internet-youtube_00329000.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://github.com/tdbnz/Wild-TV/raw/master/youtube</externallink>
+</channel>
+  </channels>
+
+<channels>
+
+
+<channel>
+      <name>[COLOR lime]Music[/COLOR]</name>
+  <thumbnail>http://lornshillacademy.org.uk/wp-content/uploads/2015/09/835917577_1387023807.jpg</thumbnail>
+<fanart>http://lornshillacademy.org.uk/wp-content/uploads/2015/09/835917577_1387023807.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/music</externallink>
+</channel>
+
+<channel>
+      <name>[COLOR lime]Concerts + Musicals[/COLOR]</name>
+  <thumbnail>https://pbs.twimg.com/profile_images/439503882352205824/C5q8W_nN.jpeg</thumbnail>
+<fanart>http://www.hdwallpaperscool.com/wp-content/uploads/2014/09/concert-amazing-background-image-hd-wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/hdconcerts</externallink>
+</channel>
+
+
+
+<channel>
+      <name>[COLOR lime]Sport[/COLOR]</name>
+  <thumbnail>http://images.all-free-download.com/images/graphicthumb/free_sport_vector_pack_557881.jpg</thumbnail>
+<fanart>http://prettywallpapershd.com/wp-content/uploads/2016/01/sports_wallpaper_hd_b01.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/sport</externallink>
+</channel>
+  </channels>
+
+
+
+<channel>
+      <name>[COLOR lime]Radio Stations[/COLOR]</name>
+  <thumbnail>https://origin.ih.constantcontact.com/fs136/1111215209439/img/60.jpg</thumbnail>
+<fanart>https://origin.ih.constantcontact.com/fs136/1111215209439/img/60.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV-premium./master/Radio</externallink>
+</channel>
+
+
+
+<channel>
+      <name>[COLOR lime]CCTV[/COLOR]</name>
+  <thumbnail>http://worldartsme.com/images/dvr-cctv-clipart-1.jpg</thumbnail>
+<fanart>http://yumtoyikes.com/wp-content/uploads/2015/12/cctv_2_iphone_find_by_mccluskeysmedia-d58u6av.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/ccctvcameras</externallink>
+</channel>
+
+<channel>
+<name>[COLOR lime]News[/COLOR]</name>
+<thumbnail>https://public.websteronline.com/sites/default/files/News.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/gMxwwEYoCNs/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://github.com/tdbnz/Wild-TV/raw/master/news</externallink>
+</channel>
+
+<channel>
+<name>[COLOR lime]Filmon[/COLOR]</name>
+<thumbnail>https://static.filmon.com/theme/images/logo/filmon_facebook.png</thumbnail>
+<fanart>http://www.shockya.com/news/wp-content/uploads/FilmOn-logo1.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://shanghai.watchkodi.com/Sections/Filmon.xml</externallink>
+</channel>
+
+
+<channel>
+      <name>[COLOR blue]Maintance[/COLOR]</name>
+  <thumbnail>https://addons.tvaddons.ag/cache/images/c8057f93c00f7abb8a730035ccea7e_icon.png</thumbnail>
+<fanart>https://addons.tvaddons.ag/cache/images/c8057f93c00f7abb8a730035ccea7e_icon.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/maintance</externallink>
+</channel>
+
+<channel>
+<name>[COLOR white]test[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/test</externallink>
+</channel>
+
+
+
+
+
+
+
+
+
+</channels>
