@@ -18,6 +18,15 @@
 </channel>
 
 <channel>
+      <name>[COLOR red]L[/COLOR]IVE T[COLOR red]V[/COLOR]</name>
+  <thumbnail>http://cdn.livetvcdn.net/img/oglogo.png</thumbnail>
+<fanart>http://cdn.livetvcdn.net/img/oglogo.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV-premium./master/uktvnow.m3u</externallink>
+</channel>
+  </channels>
+
+<channel>
       <name>[COLOR lime]Movies + Collections[/COLOR]</name>
   <thumbnail>http://ftp.tldsb.on.ca/wp-content/uploads/sites/5/2015/04/Movie-Club-logo.png</thumbnail>
 <fanart>http://vignette2.wikia.nocookie.net/pixar/images/c/ca/Bugs_life_ver5_xlg.jpg/revision/latest?cb=20110515135005</fanart>
