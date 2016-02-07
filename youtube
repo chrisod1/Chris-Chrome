@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+<item>
+<title>[COLOR green]Youtube addon[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube</jsonrpc>
+<thumbnail>https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png</thumbnail>
+</item>
+
+
+
+<items>
+<item>
+<title>[COLOR white]Matt3756  -Arcade and claw Mechine[/COLOR]</title>
+<thumbnail>http://i1314.photobucket.com/albums/t573/patreoncreator/CLAW_zps8a114ac0.png</thumbnail>
+<ytlist>playlist?list=PLOrxuoqTLI8PFWlQpu_9MZ1yfp2aplG23</ytlist>
+</item>
+
+
+
+<items>
+<item>
+<title>[COLOR red]Husham -Kodi[/COLOR]</title>
+<thumbnail>https://yt3.ggpht.com/-7MqMXmT3DR8/AAAAAAAAAAI/AAAAAAAAAAA/bfs3l0wg6u4/s100-c-k-no/photo.jpg</thumbnail>
+<ytlist>UC4gaZV464Wjnzu7TyGvXy3w</ytlist>
+</item>
+
+
+<items>
+<item>
+<title>[COLOR green]Ownage Pranks[/COLOR]</title>
+<thumbnail>https://yt3.ggpht.com/-HWna3Rkg-Y4/AAAAAAAAAAI/AAAAAAAAAAA/m8llADmn5Yg/s100-c-k-no/photo.jpg</thumbnail>
+<ytlist>OwnagePranks</ytlist>
+</item>
+
+
+
+
+<items>
+<item>
+<title>[COLOR green]Rockstar Games[/COLOR]</title>
+<thumbnail>http://www.rockstargames.com/img/global/rockstar/rockstar-1024x1024.png</thumbnail>
+<ytlist>RockstarGames</ytlist>
+</item>
+
+<items>
+<item>
+<title>[COLOR green]JustForLaughsTV[/COLOR]</title>
+<thumbnail>http://www.justforlaughs.com/media/img/site-logo.png</thumbnail>
+<ytlist>JustForLaughsTV</ytlist>
+</item>
+
+<items>
+<item>
+<title>[COLOR white]radionz[/COLOR]</title>
+<thumbnail>https://yt3.ggpht.com/-G6fA7v-XDZ8/AAAAAAAAAAI/AAAAAAAAAAA/VzF4qeaEV7I/s100-c-k-no/photo.jpg</thumbnail>
+<ytlist>radionz</ytlist>
+</item>
+
+<items>
+<item>
+<title>[COLOR white]One News NZ[/COLOR]</title>
+<thumbnail>https://yt3.ggpht.com/-0JHmMbW623k/AAAAAAAAAAI/AAAAAAAAAAA/hxiEKrbEWG0/s100-c-k-no/photo.jpg</thumbnail>
+<ytlist>onenewsnz</ytlist>
+</item>
+
+<items>
+<item>
+<title>[COLOR white]Card Trick Teacher[/COLOR]</title>
+<thumbnail>https://yt3.ggpht.com/-qU4VpuE0nUs/AAAAAAAAAAI/AAAAAAAAAAA/kq7YG07Q0-s/s100-c-k-no/photo.jpg</thumbnail>
+<ytlist>mismag822</ytlist>
+</item>
+
+<items>
+<item>
+<title>[COLOR white]eHow[/COLOR]</title>
+<thumbnail>https://yt3.ggpht.com/-xwVIyM2bMfA/AAAAAAAAAAI/AAAAAAAAAAA/ETvFJXB6zLA/s100-c-k-no/photo.jpg</thumbnail>
+<ytlist>eHow</ytlist>
+</item>
+
+<items>
+<item>
+<title>[COLOR white]Onekeyup[/COLOR]</title>
+<thumbnail>https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/s640x640/sh0.08/e35/12298972_927051890682068_436858334_n.jpg</thumbnail>
+<ytlist>onekeyup</ytlist>
+</item>
