@@ -1,8 +1,12 @@
 <channels>
 
 <channel>
-      <name>[COLOR deepskyblue]Welcome to Wild TV Premium[/COLOR]</name>
-  <thumbnail>http://www.kodiland.co/kodi/premium/icon.png</thumbnail>
+      <name>[COLOR red][COLOR red]R[/COLOR]ECOMMENDED MOVIE[COLOR red]S[/COLOR][/COLOR]</name>
+  <thumbnail>http://s11.postimg.org/j77n8vter/pris.png</thumbnail>
+  <fanart>http://www.psdgraphics.com/file/like.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV/master/movies2015</externallink>
+</channel>
 </channel>
 
 <channel>
