@@ -71,14 +71,6 @@
 </channel>
   </channels>
   
-  <channel>
-      <name>[COLOR lime]Fitness[/COLOR]</name>
-  <thumbnail>http://www.vgdrc.com/wp-content/uploads/2015/11/Fitness-logo.png</thumbnail>
-<fanart>http://www.vgdrc.com/wp-content/uploads/2015/11/Fitness-logo.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV-premium./master/fitness</externallink>
-</channel>
-  </channels>
 
 <channel>
       <name>[COLOR lime]Geordie[/COLOR]</name>
@@ -107,8 +99,6 @@
 </channel>
   </channels>
 
-<channels>
-
 
 <channel>
       <name>[COLOR lime]Music[/COLOR]</name>
@@ -117,26 +107,6 @@
 <link>http://ignoreme</link>
    <externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/music</externallink>
 </channel>
-
-<channel>
-      <name>[COLOR lime]Concerts + Musicals[/COLOR]</name>
-  <thumbnail>https://pbs.twimg.com/profile_images/439503882352205824/C5q8W_nN.jpeg</thumbnail>
-<fanart>http://www.hdwallpaperscool.com/wp-content/uploads/2014/09/concert-amazing-background-image-hd-wallpapers.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/hdconcerts</externallink>
-</channel>
-
-
-
-<channel>
-      <name>[COLOR lime]Sport[/COLOR]</name>
-  <thumbnail>http://e0.365dm.com/14/08/264x198/channels-master-graphic_3189618.jpg?20140812091429</thumbnail>
-<fanart>http://prettywallpapershd.com/wp-content/uploads/2016/01/sports_wallpaper_hd_b01.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/chrisod1/Chris-Chrome/master/sky%20sports</externallink>
-</channel>
-  </channels>
-
 
 
 <channel>
@@ -148,32 +118,6 @@
 </channel>
 
 
-
-<channel>
-      <name>[COLOR lime]CCTV[/COLOR]</name>
-  <thumbnail>http://worldartsme.com/images/dvr-cctv-clipart-1.jpg</thumbnail>
-<fanart>http://yumtoyikes.com/wp-content/uploads/2015/12/cctv_2_iphone_find_by_mccluskeysmedia-d58u6av.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/ccctvcameras</externallink>
-</channel>
-
-<channel>
-<name>[COLOR lime]News[/COLOR]</name>
-<thumbnail>https://public.websteronline.com/sites/default/files/News.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/gMxwwEYoCNs/maxresdefault.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://github.com/tdbnz/Wild-TV/raw/master/news</externallink>
-</channel>
-
-<channel>
-<name>[COLOR lime]Filmon[/COLOR]</name>
-<thumbnail>https://static.filmon.com/theme/images/logo/filmon_facebook.png</thumbnail>
-<fanart>http://www.shockya.com/news/wp-content/uploads/FilmOn-logo1.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>http://shanghai.watchkodi.com/Sections/Filmon.xml</externallink>
-</channel>
-
-
 <channel>
       <name>[COLOR blue]Maintance[/COLOR]</name>
   <thumbnail>https://addons.tvaddons.ag/cache/images/c8057f93c00f7abb8a730035ccea7e_icon.png</thumbnail>
@@ -182,13 +126,7 @@
    <externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/maintance</externallink>
 </channel>
 
-<channel>
-<name>[COLOR white]test[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://github.com/tdbnz/Wild-TV-premium./raw/master/test</externallink>
-</channel>
+
 
 
 
