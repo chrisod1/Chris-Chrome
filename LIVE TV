@@ -2,7 +2,7 @@
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR red]New [B]ESPN (NFL SUPER BOWL)[/B][/COLOR] [COLOR green] Online [/COLOR]
+#EXTINF:-1,FOX SPORTS
 http://162.248.6.122:8080/
 #EXTINF:-1,[COLOR red]New[/COLOR]NFL Network [COLOR green] Online [/COLOR]
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
@@ -34,12 +34,8 @@ http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
 http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
 #EXTINF:-1,[COLOR red]New[/COLOR] SKY MOVIES THRILLER [COLOR orange] Unknown [/COLOR]
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/2760.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sci Fi & Horror [COLOR green] Online [/COLOR]
-http://play.uktvnow.net:1935/live/mscifi.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1,[COLOR red]New[/COLOR] SKY ONE [COLOR orange] Unknown [/COLOR]
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/2771.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Premium Movies  [COLOR green] Online [/COLOR]
-http://play.uktvnow.net:1935/live/mpremiere.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Modern Great HD [COLOR orange] Unknown [/COLOR]
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/2742.ts
 #EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Modern Great [COLOR orange] Unknown [/COLOR]
@@ -53,67 +49,13 @@ http://cp.dmbshare.net:8000/live/liverpool/liverpool/2744.ts
 #EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Action HD [COLOR orange] Unknown [/COLOR]
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/2778.ts
 #EXTINF:-1,[COLOR red]New[/COLOR] Sky Drama [COLOR green] Online [/COLOR]
-http://play.uktvnow.net:1935/live/mdrama.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Living [COLOR orange] Unknown [/COLOR]
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/2780.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Family [COLOR green] Online [/COLOR]
-http://play.uktvnow.net:1935/live/mfamily.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1,[COLOR red]New[/COLOR] Sky Disney [COLOR orange] Unknown [/COLOR]
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/2782.ts
 #EXTINF:-1,[COLOR red]New[/COLOR] Sky Atlantic [COLOR orange] Unknown [/COLOR]
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/2784.ts
 #EXTINF:-1,[COLOR red]New[/COLOR] Sky Arts 1 [COLOR orange] Unknown [/COLOR]
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/2785.ts
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
-#EXTINF:-1,[COLOR red]------- [B]VEVO CHANNELS[/B] ------------[/COLOR]
-http://?
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
-#EXTINF:0,Vevo HD1 [COLOR green] Online [/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0,Vevo HD2 [COLOR green] Online [/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0,Vevo HD3 [COLOR green] Online [/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
-#EXTINF:-0,------------- [B][COLOR white]POPULAR [COLOR red]U[/COLOR][COLOR blue]K[/COLOR] & [COLOR red]U[/COLOR][COLOR blue]S[/COLOR] CHANNELS[/B] ------------------
-http://?
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
-#EXTINF:-1,[COLOR red]New[/COLOR] MTV [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2817.ts
-
-#EXTINF:-1,[COLOR red]New[/COLOR] SPIKE TV [COLOR green]Online[/COLOR]
-http://play.uktvnow.net:1935/live/spike9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1,[COLOR red]New[/COLOR] AMC [COLOR green]Online[/COLOR]
-http://play.uktvnow.net:1935/live/amc9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1,[COLOR red]New[/COLOR] ABC HD [COLOR green]Online[/COLOR]
-http://play.uktvnow.net:1935/live/abchd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1,[COLOR red]New[/COLOR] CBS HD [COLOR green]Online[/COLOR]
-http://play.uktvnow.net:1935/live/cbshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1,[COLOR red]New[/COLOR] AXS HD [COLOR green]Online[/COLOR]
-http://play.uktvnow.net:1935/live/axs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1,[COLOR red]New[/COLOR] THE CW [COLOR green]Online[/COLOR]
-http://play.uktvnow.net:1935/live/cw9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1,[COLOR red]New[/COLOR] DESTINATION AMERICA [COLOR green]Online[/COLOR]
-http://play.uktvnow.net:1935/live/destination.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1,[COLOR red]New[/COLOR] HGTV HD [COLOR green]Online[/COLOR]
-http://play.uktvnow.net:1935/live/hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1,[COLOR red]New[/COLOR] PBS [COLOR green]Online[/COLOR]
-http://play.uktvnow.net:1935/live/pbs9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1,[COLOR red]New[/COLOR] TBS [COLOR green]Online[/COLOR]
-http://play.uktvnow.net:1935/live/tbs9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:-1,[COLOR red]New[/COLOR] TLC [COLOR green]Online[/COLOR]
 http://62.210.206.122:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929
