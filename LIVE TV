@@ -1,15 +1,155 @@
 <viewtype>list</viewtype>
 
 #EXTM3U
-#EXTINF:-1,Discovery Channel (EN)
-http://80.77.52.6:3917/udp/226.0.3.17:12345
-#EXTINF:-1,Discovery World (EN)
-http://80.77.52.6:3917/udp/226.0.3.3:12345
-#EXTINF:-1,Discovery Science (EN)
-http://80.77.52.6:3917/udp/226.0.3.4:12345
-#EXTINF:-1,Animal Planet (EN)
-http://80.77.52.6:3917/udp/226.0.3.19:12345
-#EXTINF:-1,Nat Geo Wild (EN)
-http://80.77.52.6:3917/udp/226.0.3.23:12345
- #EXTINF:-1,NGC (EN)
-http://80.77.52.6:3917/udp/226.0.3.24:12345
+#EXTINF:-1,[COLOR yellow]by http://iptv-m3u-playlist-url.blogspot.com/[/COLOR]
+ 
+#EXTINF:-1,UK : SKY Animal Planet
+http://iptv.x200.in:8000/live/majid/majid/796.ts
+#EXTINF:-1, Box Nation HD
+http://iptv.x200.in:8000/live/majid/majid/348.ts
+#EXTINF:-1, SKY SPORT NEWS
+http://iptv.x200.in:8000/live/majid/majid/771.ts
+#EXTINF:-1, DISCOVERY SHED
+http://iptv.x200.in:8000/live/majid/majid/772.ts
+#EXTINF:-1, DISCOVERY HOME & HEALTH
+http://iptv.x200.in:8000/live/majid/majid/776.ts
+#EXTINF:-1, DISCOVERY HISTORY
+http://iptv.x200.in:8000/live/majid/majid/775.ts
+#EXTINF:-1, http://sat-master.org DISCOVERY
+http://iptv.x200.in:8000/live/majid/majid/769.ts
+#EXTINF:-1, Sky Sport 5 UK
+http://iptv.x200.in:8000/live/majid/majid/60.ts
+#EXTINF:-1, Sky Sport 4 UK
+http://iptv.x200.in:8000/live/majid/majid/59.ts
+#EXTINF:-1, Sky Sport 3 UK
+http://iptv.x200.in:8000/live/majid/majid/58.ts
+#EXTINF:-1, Sky Sport 2 UK
+http://iptv.x200.in:8000/live/majid/majid/57.ts
+#EXTINF:-1, Sky Sport 1 UK
+http://iptv.x200.in:8000/live/majid/majid/56.ts
+#EXTINF:-1,UK:Sky Sport F1 UK
+http://iptv.x200.in:8000/live/majid/majid/55.ts
+#EXTINF:-1, Sky Movies Sci-Fi & Horror
+http://iptv.x200.in:8000/live/majid/majid/290.ts
+#EXTINF:-1, Sky Movies Premiere HD
+http://iptv.x200.in:8000/live/majid/majid/284.ts
+#EXTINF:-1, Sky Movies Modern HD
+http://iptv.x200.in:8000/live/majid/majid/289.ts
+#EXTINF:-1, Sky Movies Drama HD
+http://iptv.x200.in:8000/live/majid/majid/286.ts
+#EXTINF:-1, Sky Movies Comedy HD
+http://iptv.x200.in:8000/live/majid/majid/285.ts
+#EXTINF:-1, Sky Movies Action HD
+http://iptv.x200.in:8000/live/majid/majid/283.ts
+#EXTINF:-1, SKYUK FLAVA
+http://iptv.x200.in:8000/live/majid/majid/292.ts
+#EXTINF:-1, SKYUK TV 3
+http://iptv.x200.in:8000/live/majid/majid/106.ts
+#EXTINF:-1, SKYUK Travel Channel
+http://iptv.x200.in:8000/live/majid/majid/107.ts
+#EXTINF:-1, SKYUK The Vault
+http://iptv.x200.in:8000/live/majid/majid/108.ts
+#EXTINF:-1, SKYUK At The Races
+http://iptv.x200.in:8000/live/majid/majid/117.ts
+#EXTINF:-1, SKYUK Quest
+http://iptv.x200.in:8000/live/majid/majid/118.ts
+#EXTINF:-1, SKYUK Nicktoons
+http://iptv.x200.in:8000/live/majid/majid/119.ts
+#EXTINF:-1, SKYUK Nickelodeon
+http://iptv.x200.in:8000/live/majid/majid/120.ts
+#EXTINF:-1, SKYUK MUTV
+http://iptv.x200.in:8000/live/majid/majid/121.ts
+#EXTINF:-1, SKYUK Disney XD
+http://iptv.x200.in:8000/live/majid/majid/131.ts
+#EXTINF:-1, SKYUK Colors
+http://iptv.x200.in:8000/live/majid/majid/133.ts
+#EXTINF:-1, SKYUK True Movies 2
+http://iptv.x200.in:8000/live/majid/majid/139.ts
+#EXTINF:-1, SKYUK Cartoon Network
+http://iptv.x200.in:8000/live/majid/majid/140.ts
+#EXTINF:-1, RTE Two
+http://iptv.x200.in:8000/live/majid/majid/103.ts
+#EXTINF:-1, RTE One
+http://iptv.x200.in:8000/live/majid/majid/102.ts
+#EXTINF:-1, Sky One
+http://iptv.x200.in:8000/live/majid/majid/98.ts
+#EXTINF:-1, Itv 4
+http://iptv.x200.in:8000/live/majid/majid/90.ts
+#EXTINF:-1, http://sat-master.org Itv 3
+http://iptv.x200.in:8000/live/majid/majid/89.ts
+#EXTINF:-1, Itv 2
+http://iptv.x200.in:8000/live/majid/majid/88.ts
+#EXTINF:-1, Itv
+http://iptv.x200.in:8000/live/majid/majid/87.ts
+#EXTINF:-1, BBC 4
+http://iptv.x200.in:8000/live/majid/majid/86.ts
+#EXTINF:-1, BBC 3
+http://iptv.x200.in:8000/live/majid/majid/85.ts
+#EXTINF:-1, BBC 2
+http://iptv.x200.in:8000/live/majid/majid/84.ts
+#EXTINF:-1, BBC 1
+http://iptv.x200.in:8000/live/majid/majid/83.ts
+#EXTINF:-1, SKYUK MOTORS TV
+http://iptv.x200.in:8000/live/majid/majid/46.ts
+#EXTINF:-1, SKYUK Premier Sports
+http://iptv.x200.in:8000/live/majid/majid/51.ts
+#EXTINF:-1, SKYUK Nat Geo Wild
+http://iptv.x200.in:8000/live/majid/majid/47.ts
+#EXTINF:-1, SKYUK Nat Geo
+http://iptv.x200.in:8000/live/majid/majid/48.ts
+#EXTINF:-1, SKYUK History
+http://iptv.x200.in:8000/live/majid/majid/50.ts
+#EXTINF:-1, SKYUK Food Network
+http://iptv.x200.in:8000/live/majid/majid/81.ts
+#EXTINF:-1, SKYUK Five
+http://iptv.x200.in:8000/live/majid/majid/52.ts
+#EXTINF:-1, SKYUK Film 4
+http://iptv.x200.in:8000/live/majid/majid/80.ts
+#EXTINF:-1, SKYUK Disney Junior
+http://iptv.x200.in:8000/live/majid/majid/73.ts
+#EXTINF:-1, SKYUK Disney Channel
+http://iptv.x200.in:8000/live/majid/majid/74.ts
+#EXTINF:-1, SKYUK Discovery Science
+http://iptv.x200.in:8000/live/majid/majid/75.ts
+#EXTINF:-1, SKYUK Discovery Investigation
+http://iptv.x200.in:8000/live/majid/majid/76.ts
+#EXTINF:-1, SKYUK Discovery History
+http://iptv.x200.in:8000/live/majid/majid/77.ts
+#EXTINF:-1, SKYUK Animal Planet
+http://iptv.x200.in:8000/live/majid/majid/79.ts
+#EXTINF:-1, SKYUK 5 USA
+http://iptv.x200.in:8000/live/majid/majid/53.ts
+#EXTINF:-1, SKYUK 5 STAR
+http://iptv.x200.in:8000/live/majid/majid/54.ts
+#EXTINF:-1, Sky Select UK
+http://iptv.x200.in:8000/live/majid/majid/64.ts
+#EXTINF:-1, Sky Family UK
+http://iptv.x200.in:8000/live/majid/majid/67.ts
+#EXTINF:-1, Setanta Sport
+http://iptv.x200.in:8000/live/majid/majid/72.ts
+#EXTINF:-1, BT Sport 2
+http://iptv.x200.in:8000/live/majid/majid/62.ts
+#EXTINF:-1, BT Sport 1
+http://iptv.x200.in:8000/live/majid/majid/61.ts
+#EXTINF:-1, MTV ROCKS
+http://iptv.x200.in:8000/live/majid/majid/869.ts
+#EXTINF:-1, MTV HITS
+http://iptv.x200.in:8000/live/majid/majid/870.ts
+#EXTINF:-1, MTV DANCE
+http://iptv.x200.in:8000/live/majid/majid/871.ts
+#EXTINF:-1, SKYArt 1
+http://iptv.x200.in:8000/live/majid/majid/795.ts
+#EXTINF:-1, Sky Living
+http://iptv.x200.in:8000/live/majid/majid/794.ts
+#EXTINF:-1,Thai: CTH Stadium 4 HD
+http://iptv.x200.in:8000/live/majid/majid/395.ts
+#EXTINF:-1,Thai: CTH Stadium 3 HD
+http://iptv.x200.in:8000/live/majid/majid/396.ts
+#EXTINF:-1,Thai: CTH Stadium 2 HD
+http://iptv.x200.in:8000/live/majid/majid/397.ts
+#EXTINF:-1,Thai: CTH Stadium 1 HD
+http://iptv.x200.in:8000/live/majid/majid/398.ts
+#EXTINF:-1, Channel 5
+http://iptv.x200.in:8000/live/majid/majid/798.ts
+#EXTINF:-1, Channel 4
+http://iptv.x200.in:8000/live/majid/majid/797.ts
