@@ -2,27 +2,6 @@
 
 #EXTM3U
 
-http://?
-#EXTINF:-1,[B][COLOR blue]_____ Welcome To Khaoz Live TV ______[/COLOR][/B]
-http://?
-#EXTINF:-1,[B][COLOR blue]        Server Status:[/COLOR][/B][COLOR green] Online [/COLOR]
-http://?
-#EXTINF:-1,[B][COLOR red]        Last Update:[/COLOR][/B][COLOR blue] Feb 5, 2016 (2:31PM EST) [/COLOR]
-http://?
-#EXTINF:-1,[B][COLOR yellow]     Keep Khaoz TV Alive Donate Via Paypal  [/COLOR][/B]
-http://?
-#EXTINF:-1,[COLOR blue]     [B]Paypal:[/COLOR] Dejkriz@outlook.com[/B]
-http://?
-#EXTINF:-1,[B][COLOR blue]--------------We are Looking For Coders------------------[/COLOR][/B]
-http://?
-#EXTINF:-1,  [COLOR blue]Contact us Via Twitter & Keep up to date[/COLOR]
-http://?
-#EXTINF:-1,  [COLOR blue]on channel updates and changes[/COLOR]
-http://?
-#EXTINF:-1,  [COLOR blue]our Twitter[/COLOR] [B]@KhaozLiveTV[/B]
-http://?
-#EXTINF:-1,  [COLOR blue]Show Love Subscribe on Youtube [/COLOR][B][COLOR red]PSNDEJKRIZ[/B][/COLOR]
-http://?
 #EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
 http://?
 #EXTINF:-0,[COLOR white]-------------[B]S P O R T S[/B] ------------------[/COLOR]
@@ -33,7 +12,7 @@ http://?
 http://162.248.6.122:8080/
 #EXTINF:-1,[COLOR red]New[/COLOR]NFL Network [COLOR green] Online [/COLOR]
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-#EXTINF:-1,[COLOR red]New[/COLOR] FOX SPORTS LIVE TV 1 HD [COLOR green] Online [/COLOR]
+#EXTINF:-1,FOX SPORTS LIVE TV 1 HD 
 http://bit.ly/1QlNuGy
 #EXTINF:-1,[COLOR red]New[/COLOR] FOX SPORTS LIVE TV 2 HD [COLOR green] Online [/COLOR]
 http://bit.ly/1V5STkg
