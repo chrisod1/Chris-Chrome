@@ -1,23 +1,435 @@
 <viewtype>list</viewtype>
 
 #EXTM3U
- 
-#EXTINF:-1,[COLOR yellow]By www.facebook.com/IPTV.PLAYLIST [/B][/I][/COLOR]
-http://0.1.5.0:1224
 
-#EXTINF:0,Sky Sports 1
-http://80.243.189.26:8081/sportshd/sky1/index.m3u8
-#EXTINF:0,Sky Sports 2
-http://80.243.189.26:8081/sportshd/sky2/index.m3u8
-#EXTINF:0,Sky Sports 3
-http://80.243.189.26:8081/sportshd/sky3/index.m3u8
-#EXTINF:0,Sky Sports 4
-http://80.243.189.26:8081/sportshd/sky4/index.m3u8
-#EXTINF:0,Sky Sports 5
-http://80.243.189.26:8081/sportshd/sky5/index.m3u8
-#EXTINF:0,BT Sport 1
-http://80.243.189.26:8081/sportshd/bt1/index.m3u8
-#EXTINF:0,BT Sport 2
-http://80.243.189.26:8081/sportshd/bt2/index.m3u8
-#EXTINF:0,BT Sports ESPN
-http://80.243.189.26:8081/sportshd/espnuk/index.m3u8
+http://?
+#EXTINF:-1,[B][COLOR blue]_____ Welcome To Khaoz Live TV ______[/COLOR][/B]
+http://?
+#EXTINF:-1,[B][COLOR blue]        Server Status:[/COLOR][/B][COLOR green] Online [/COLOR]
+http://?
+#EXTINF:-1,[B][COLOR red]        Last Update:[/COLOR][/B][COLOR blue] Feb 5, 2016 (2:31PM EST) [/COLOR]
+http://?
+#EXTINF:-1,[B][COLOR yellow]     Keep Khaoz TV Alive Donate Via Paypal  [/COLOR][/B]
+http://?
+#EXTINF:-1,[COLOR blue]     [B]Paypal:[/COLOR] Dejkriz@outlook.com[/B]
+http://?
+#EXTINF:-1,[B][COLOR blue]--------------We are Looking For Coders------------------[/COLOR][/B]
+http://?
+#EXTINF:-1,  [COLOR blue]Contact us Via Twitter & Keep up to date[/COLOR]
+http://?
+#EXTINF:-1,  [COLOR blue]on channel updates and changes[/COLOR]
+http://?
+#EXTINF:-1,  [COLOR blue]our Twitter[/COLOR] [B]@KhaozLiveTV[/B]
+http://?
+#EXTINF:-1,  [COLOR blue]Show Love Subscribe on Youtube [/COLOR][B][COLOR red]PSNDEJKRIZ[/B][/COLOR]
+http://?
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-0,[COLOR white]-------------[B]S P O R T S[/B] ------------------[/COLOR]
+http://?
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-1,[COLOR red]New [B]ESPN (NFL SUPER BOWL)[/B][/COLOR] [COLOR green] Online [/COLOR]
+http://162.248.6.122:8080/
+#EXTINF:-1,[COLOR red]New[/COLOR]NFL Network [COLOR green] Online [/COLOR]
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] FOX SPORTS LIVE TV 1 HD [COLOR green] Online [/COLOR]
+http://bit.ly/1QlNuGy
+#EXTINF:-1,[COLOR red]New[/COLOR] FOX SPORTS LIVE TV 2 HD [COLOR green] Online [/COLOR]
+http://bit.ly/1V5STkg
+#EXTINF:-1,[COLOR red]New[/COLOR] FOX SPORTS LIVE TV 3 HD [COLOR green] Online [/COLOR]
+http://bit.ly/20co3Ke
+#EXTINF:-1,[COLOR red]New[/COLOR] FOX SPORTS LIVE TV 4 HD [COLOR green] Online [/COLOR]
+http://bit.ly/1NiOuVs
+#EXTINF:-1,[COLOR red]New[/COLOR] FOX SPORTS 4 HD [COLOR green] Online [/COLOR]
+http://162.248.6.122:8084
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-0,[COLOR blue]------------- [B]SKY CHANNELS[/B] ------------------[/COLOR]
+http://?
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sports 1 [COLOR green] Online [/COLOR]
+http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sports 2 [COLOR green] Online [/COLOR]
+http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sports 3 [COLOR green] Online [/COLOR]
+http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sports 4 [COLOR green] Online [/COLOR]
+http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sports 5 [COLOR green] Online [/COLOR]
+http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] SKY MOVIES THRILLER [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2760.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sci Fi & Horror [COLOR green] Online [/COLOR]
+http://play.uktvnow.net:1935/live/mscifi.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1,[COLOR red]New[/COLOR] SKY ONE [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2771.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Premium Movies  [COLOR green] Online [/COLOR]
+http://play.uktvnow.net:1935/live/mpremiere.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Modern Great HD [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2742.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Modern Great [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2776.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Family HD [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2743.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Drama HD [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2777.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Disney HD [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2744.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Action HD [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2778.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Drama [COLOR green] Online [/COLOR]
+http://play.uktvnow.net:1935/live/mdrama.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Living [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2780.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Family [COLOR green] Online [/COLOR]
+http://play.uktvnow.net:1935/live/mfamily.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Disney [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2782.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Atlantic [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2784.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Sky Arts 1 [COLOR orange] Unknown [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2785.ts
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-1,[COLOR red]------- [B]VEVO CHANNELS[/B] ------------[/COLOR]
+http://?
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:0,Vevo HD1 [COLOR green] Online [/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,Vevo HD2 [COLOR green] Online [/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0,Vevo HD3 [COLOR green] Online [/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-0,------------- [B][COLOR white]POPULAR [COLOR red]U[/COLOR][COLOR blue]K[/COLOR] & [COLOR red]U[/COLOR][COLOR blue]S[/COLOR] CHANNELS[/B] ------------------
+http://?
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-1,[COLOR red]New[/COLOR] MTV [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2817.ts
+
+#EXTINF:-1,[COLOR red]New[/COLOR] SPIKE TV [COLOR green]Online[/COLOR]
+http://play.uktvnow.net:1935/live/spike9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1,[COLOR red]New[/COLOR] AMC [COLOR green]Online[/COLOR]
+http://play.uktvnow.net:1935/live/amc9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1,[COLOR red]New[/COLOR] ABC HD [COLOR green]Online[/COLOR]
+http://play.uktvnow.net:1935/live/abchd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1,[COLOR red]New[/COLOR] CBS HD [COLOR green]Online[/COLOR]
+http://play.uktvnow.net:1935/live/cbshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1,[COLOR red]New[/COLOR] AXS HD [COLOR green]Online[/COLOR]
+http://play.uktvnow.net:1935/live/axs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1,[COLOR red]New[/COLOR] THE CW [COLOR green]Online[/COLOR]
+http://play.uktvnow.net:1935/live/cw9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1,[COLOR red]New[/COLOR] DESTINATION AMERICA [COLOR green]Online[/COLOR]
+http://play.uktvnow.net:1935/live/destination.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1,[COLOR red]New[/COLOR] HGTV HD [COLOR green]Online[/COLOR]
+http://play.uktvnow.net:1935/live/hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1,[COLOR red]New[/COLOR] PBS [COLOR green]Online[/COLOR]
+http://play.uktvnow.net:1935/live/pbs9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1,[COLOR red]New[/COLOR] TBS [COLOR green]Online[/COLOR]
+http://play.uktvnow.net:1935/live/tbs9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1,[COLOR red]New[/COLOR] TLC [COLOR green]Online[/COLOR]
+http://62.210.206.122:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929
+
+#EXTINF:-1,[COLOR red]New[/COLOR] NBC HD [COLOR green]Online[/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/2148.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] CNN HD [COLOR green]Online[/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/2165.m3u8
+#EXTINF:0,E! [COLOR green]Online[/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0,Toonami Aftermath [COLOR green]Online[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
+#EXTINF:0,WEATHER NATION [COLOR green]Online[/COLOR]
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0,RT (English) [COLOR green]Online[/COLOR]
+rtsp://46.249.213.93/broadcast/rt-news-tablet.3gp
+#EXTINF:0,ABC [COLOR green] Online [/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] ABC HD [COLOR green]Online[/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/2173.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] ABC NEWS [COLOR green]Online[/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/2172.m3u8
+#EXTINF:-1,ADULT SWIM [COLOR green] Online [/COLOR]
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR red]New[/COLOR] BLOOMBERG HD [COLOR green] Online [/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/2171.m3u8
+#EXTINF:-1,BBC ENTERTAINMENT [COLOR green] Online [/COLOR]
+http://200.76.77.237:80/LIVE/H01/CANAL253/PROFILE03.m3u8?%2f.ts
+#EXTINF:0,WGN (CW) [COLOR green] Online [/COLOR]
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+#EXTINF:0,Weather Channel US [COLOR green]Online[/COLOR]
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,FOX 1 HD [COLOR green] Online [/COLOR]
+http://200.76.77.237:80/LIVE/H01/CANAL415/PROFILE03.m3u8?%2f.ts
+#EXTINF:-1,FOX MOVIES HD [COLOR green] Online [/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,FOX ACTION HD [COLOR green] Online [/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0,Tru tv [COLOR green] Online [/COLOR]
+http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
+#EXTINF:0,NASA TV [COLOR green] Online [/COLOR]
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] FX [COLOR green] Online [/COLOR]
+http://play.uktvnow.net:1935/live/fx9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,The Florida Channel [COLOR green] Online [/COLOR]
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:0,The Jewellery Channel (TJC) [COLOR green] Online [/COLOR]
+http://llnw.live.simplestream.com/coder3/coder.channels.channel18/hls/playlist.m3u8
+#EXTINF:0,WGN [COLOR green] Online [/COLOR]
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+#EXTINF:0,PAC-12 Arizona [COLOR green] Online [/COLOR]
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:0,PAC-12 Bay Area [COLOR green] Online [/COLOR]
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+
+#EXTINF:-1,[COLOR red]New[/COLOR] LIFE TIME [COLOR green] Online [/COLOR]
+http://play.uktvnow.net:1935/live/lifetime9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1,[COLOR red]New[/COLOR] Really [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2745.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Pick TV [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2747.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Nick JR [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2748.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Nick JR 2[COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2791.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] NATIONAL GEOGRAPHIC [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2793.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Good Food [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2801.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Gold [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2802.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Fox [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2803.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Film 4 [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2806.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] E! [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2811.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Dmax [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2813.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Disney Junior [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2814.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Disney Channel [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2815.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Discovery Science HD [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2818.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Discovery Science [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2819.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Discovery Investigation [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2820.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Discovery History [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2821.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Comedy Central [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2822.ts
+
+#EXTINF:-1,[COLOR red]New[/COLOR] Comedy Central Extra [COLOR green] Online [/COLOR]
+http://77.76.140.251:22637/udp/231.2.2.26:1234
+
+#EXTINF:-1,[COLOR red]New[/COLOR] ITV 4 [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2825.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] CBS Drama [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2826.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] CBS Action [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2827.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Cartoon Network [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2828.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] BBC 1 HD [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2752.ts
+#EXTINF:-1,[COLOR red]New[/COLOR] Animal Planet [COLOR green] Online [/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/2834.ts 
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-0,[COLOR yellow]------------- [B]24/7 SHOWS[/B] ------------------[/COLOR]
+http://?
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:0,[COLOR red]New[/COLOR] Classic (24/7) [COLOR green] Online [/COLOR]
+http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
+#EXTINF:-0,[COLOR red]New[/COLOR] Film Noir Classic Channel  (24/7) [COLOR green] Online [/COLOR]
+http://veetle.com/index.php/hls/streamMbrfast/560254c83ba47_/stream.m3u8
+#EXTINF:-0,[COLOR red]New[/COLOR] Tom & Jerry [COLOR green] Online [/COLOR]
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+#EXTINF:-0,[COLOR red]New[/COLOR] South Park - Uncensored (24/7) [COLOR green] Online [/COLOR]
+http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
+#EXTINF:-0,[COLOR red]New[/COLOR] Simpsons (24/7) [COLOR green] Online [/COLOR]
+http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
+#EXTINF:-0,[COLOR red]New[/COLOR] SpongeBob (24/7) [COLOR green] Online [/COLOR]
+http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] King of the Hill (24/7) [COLOR green] Online [/COLOR]
+http://veetle.com/index.php/hls/streamMbrFast/4f9436ece56e2_/stream.m3u8
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-1,[COLOR #00FA9A]------- [B]NON ENGLISH SPORTS[/B] ------------[/COLOR]
+http://?
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:0,[COLOR red]New[/COLOR] ESPN + [COLOR green] Online [/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0,[COLOR red]New[/COLOR] ESPN 2 [COLOR green] Online [/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,SUPER SPORT 1 [COLOR green] Online [/COLOR]
+http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/830.m3u8
+#EXTINF:-1,SUPER SPORT 2 [COLOR green] Online [/COLOR]
+http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/829.m3u8
+#EXTINF:-1,SUPER SPORT 3 [COLOR green] Online [/COLOR]
+http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/965.m3u8
+#EXTINF:-1,SUPER SPORT 2 HD [COLOR green] Online [/COLOR]
+http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/430.m3u8
+#EXTINF:-1,SUPER SPORT 3 HD [COLOR green] Online [/COLOR]
+http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/431.m3u8
+#EXTINF:-1,SUPER SPORT 4 HD [COLOR green] Online [/COLOR]
+http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/432.m3u8
+#EXTINF:-1,SUPER SPORT 5 HD [COLOR green] Online [/COLOR]
+http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/929.m3u8
+#EXTINF:-1,Super Sport 4 HD [COLOR green] Online [/COLOR]
+http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/966.m3u8
+#EXTINF:-1,Arena Sport 1 [COLOR green] Online [/COLOR]
+http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/64.m3u8
+EXTINF:0,SURYA TV [COLOR green] Online [/COLOR]
+http://akamaihd.abrhls11.yuppcdn.net/live/smil:surya.smil/chunklist.m3u8
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-1,[COLOR purple]------- [B]NON ENGLISH CHANNELS[/B] -------[/COLOR] [COLOR red]New[/COLOR]
+http://?
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:0,[COLOR red]New[/COLOR] KIRAN TV [COLOR green] Online [/COLOR]
+http://akamaihd.abrhls11.yuppcdn.net/live/smil:kirantv.smil/chunklist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] ASIANET [COLOR green] Online [/COLOR]
+http://akamaihd.abrhls11.yuppcdn.net/live/smil:starasianet.smil/chunklist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] ASIANET PLUS [COLOR green] Online [/COLOR]
+http://akamaihd.abrhls11.yuppcdn.net/live/smil:starasianetp.smil/chunklist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] ASIANET MOVIES [COLOR green] Online [/COLOR]
+http://akamaihd.abrhls11.yuppcdn.net/live/smil:asianetmovies.smil/chunklist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] ASIANET NEWS [COLOR green] Online [/COLOR]
+rtmp://209.133.205.226/live/asianetnews
+#EXTINF:0,[COLOR red]New[/COLOR] FLOWERS [COLOR green] Online [/COLOR]
+http://live.wmncdn.net/flowerstv123/0adb0cb6b6bcae38f59b53c96673f72c.sdp/playlist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] KAUMUDI TV [COLOR green] Online [/COLOR]
+http://live.wmncdn.net/kaumuditv/243b319495a3640437b42f4d49bbb107.sdp/playlist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] SAFARI TV [COLOR green] Online [/COLOR]
+http://live.wmncdn.net/safari/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] SAKHI TV [COLOR green] Online [/COLOR]
+http://live.wmncdn.net/sakhitv1/dc0d08e5fe6e54e47190bac53aded426.sdp/playlist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] MEDIA ONE [COLOR green] Online [/COLOR]
+http://live.wmncdn.net/mediaone/smil:d0dbe915091d400bd8ee7f27f0791303.smil/playlist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] SUN TV [COLOR green] Online [/COLOR]
+http://akamaihd.abrhls11.yuppcdn.net/live/smil:suntv.smil/chunklist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] K TV [COLOR green] Online [/COLOR]
+http://akamaihd.abrhls11.yuppcdn.net/live/smil:ktv.smil/chunklist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] SUN MUSIC [COLOR green] Online [/COLOR]
+http://akamaihd.abrhls11.yuppcdn.net/live/smil:sunmusic.smil/chunklist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] ADITHYA [COLOR green] Online [/COLOR]
+http://188.165.239.176:1936/live/adithyatvhd/index.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] STAR VIJAY [COLOR green] Online [/COLOR]
+http://akamaihd.abrhls11.yuppcdn.net/live/smil:starvijaya.smil/chunklist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] JAYA TV [COLOR green] Online [/COLOR]
+http://185.59.222.89:1935/cdn/jayatvhd/playlist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] JAYA MAX [COLOR green] Online [/COLOR]
+http://188.165.239.176:1936/live/jayamaxhd/index.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] JAYA MOVIES [COLOR green] Online [/COLOR]
+http://live.nwk1.yupptv.tv/nwk1/smil:jayamoviesus.smil/playlist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] KALAINGER TV [COLOR green] Online [/COLOR]
+http://188.165.239.176:1936/live/kalaignartvhd/index.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] SIRIPPOLI [COLOR green] Online [/COLOR]
+http://185.59.222.89:1935/cdn/sirippolihd/chunklist_w2040005130.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] ISAI ARUVI [COLOR green] Online [/COLOR]
+http://188.165.239.176:1936/live/isaiaruvihd/index.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] RAJ [COLOR green] Online [/COLOR]
+http://live.tamilmv.net:8080/raaaaajj/index.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] DD PODHIKAI [COLOR green] Online [/COLOR]
+http://live.wmncdn.net/ddpodigai/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
+#EXTINF:0,[COLOR red]New[/COLOR] DISCOVERY TAMIL [COLOR green] Online [/COLOR]
+http://188.165.239.176:1936/live/discoveryhd/index.m3u8
+#EXTINF:0 ,MBC Bollywood [COLOR green] Online [/COLOR]
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1,DD News [COLOR green] Online [/COLOR]
+http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
+#EXTINF:-1,ETV Marathi [COLOR green] Online [/COLOR]
+http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+#EXTINF:-1,HEMA TV CC [COLOR green] Online [/COLOR]
+mms://77.238.209.50:1234
+#EXTINF:-1,HIRU TV [COLOR green] Online [/COLOR]
+http://cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1,IBN LookMat [COLOR green] Online [/COLOR]
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+#EXTINF:-1,India News [COLOR green] Online [/COLOR]
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+#EXTINF:0, News Nation [COLOR green] Online [/COLOR]
+http://54.255.176.172:1935/live/smil:mystream.smil/playlist.m3u8
+#EXTINF:0, Janta TV [COLOR green] Online [/COLOR]
+http://jlive.itv.net.in:1935/jantatv/myStream.sdp/playlist.m3u8
+#EXTINF:0, Shiri News [COLOR green] Online [/COLOR]
+http://live.wmncdn.net/shrinewstv/e2c1680f2177d9647a218609a3a2fd5e.sdp/playlist.m3u8
+#EXTINF:0, Star Maza [COLOR green] Online [/COLOR]
+http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
+#EXTINF:0, Sudharshan TV [COLOR green] Online [/COLOR]
+http://live.wmncdn.net/sudarshantv/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
+#EXTINF:0, Paigham TV pakistan [COLOR green] Online [/COLOR]
+http://125.209.77.130:1935/live/livestream1/playlist.m3u8
+#EXTINF:0, NDTV [COLOR green] Online [/COLOR]
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
+#EXTINF:-1,ND TV [COLOR green] Online [/COLOR]
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:0, ZOOM Music TV [COLOR green] Online [/COLOR]
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD160_W_150.sdp/playlist.m3u8
+#EXTINF:0, QVC HD [COLOR green] Online [/COLOR]
+rtmp://204.107.26.252:8086/live/413.high.stream
+#EXTINF:0, Prime TV [COLOR green] Online [/COLOR]
+rtsp://46.249.213.93/broadcast/primetv-tablet.3gp
+#EXTINF:-1,Sudharshan TV [COLOR green] Online [/COLOR]
+http://live.wmncdn.net/sudarshantv/72781e965e0681e980034a778ee7067b.sdp/HasBahCa.m3u8
+#EXTINF:-1 ,Gem TV [COLOR green] Online [/COLOR]
+http://63.237.48.23/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:-1,TBN 24 [COLOR green] Online [/COLOR]
+http://207.239.32.236:88/Segments/HLS_TS/mptslive/tbn24.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] AXN [COLOR green] Online [/COLOR]
+http://77.76.140.251/prgd.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] CINEMAX [COLOR green] Online [/COLOR]
+http://77.76.140.251/prgb.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] HBO [COLOR green] Online [/COLOR]
+http://77.76.140.251/prgp.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] HBO East [COLOR green] Online [/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/2153.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] HBO East [COLOR green] Online [/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/2153.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] HBO Signature HD [COLOR green] Online [/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/2152.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] HBO Comedy HD [COLOR green] Online [/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/2154.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] MOVIE STAR [COLOR green] Online [/COLOR]
+http://77.76.140.251/prgc.m3u8
+#EXTINF:-1,[COLOR red]New[/COLOR] THE VOICE [COLOR green] Online [/COLOR]
+http://77.76.140.251/prgm.m3u8
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-1,[COLOR green]------- [B]MIXED ALL UNKNOWN STATUS[/B] ------------[/COLOR]
+http://?
+#EXTINF:-1,[COLOR red][B]Please note these have not been checked[/B][/COLOR]
+http://?
+#EXTINF:-1,[COLOR red] [B]All Channels Below are not guaranteed to work[/B][/COLOR]
+http://?
+#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
+http://?
+#EXTINF:-1,ABC
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:0,CW
+http://109.236.92.136:1935/live/cw9.stream/playlist.m3u8?
+#EXTINF:-1, News 12 (New Jersey)
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:0,TLC
+http://62.210.206.122:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929
