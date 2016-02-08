@@ -2,12 +2,6 @@
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
-#EXTINF:-0,[COLOR white]-------------[B]S P O R T S[/B] ------------------[/COLOR]
-http://?
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
 #EXTINF:-1,[COLOR red]New [B]ESPN (NFL SUPER BOWL)[/B][/COLOR] [COLOR green] Online [/COLOR]
 http://162.248.6.122:8080/
 #EXTINF:-1,[COLOR red]New[/COLOR]NFL Network [COLOR green] Online [/COLOR]
