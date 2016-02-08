@@ -1,6 +1,15 @@
 <channels>
 
 <channel>
+      <name>[COLOR red]-----=====\\\\\//////=====-----[/COLOR]</name>
+  <thumbnail>h</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</channel>
+  </channels>
+  
+<channel>
       <name>[COLOR red]L[/COLOR]IVE T[COLOR red]V[/COLOR]</name>
   <thumbnail>http://cdn.livetvcdn.net/img/oglogo.png</thumbnail>
 <fanart>http://cdn.livetvcdn.net/img/oglogo.png</fanart>
