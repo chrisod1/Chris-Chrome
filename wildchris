@@ -35,44 +35,7 @@
    <externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV/master/movies2015</externallink>
 </channel>
 
-<channel>
-      <name>[COLOR lime]Movies + Collections[/COLOR]</name>
-  <thumbnail>http://ftp.tldsb.on.ca/wp-content/uploads/sites/5/2015/04/Movie-Club-logo.png</thumbnail>
-<fanart>http://vignette2.wikia.nocookie.net/pixar/images/c/ca/Bugs_life_ver5_xlg.jpg/revision/latest?cb=20110515135005</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/chrisod1/Chris-Chrome/master/prison%20movies</externallink>
-</channel>
-
-<channel>
-<name>[COLOR lime]Kids[/COLOR]</name>
-<thumbnail>http://jbatt.com/wordpress/wp-content/uploads/2011/07/capital-kids-logo-for-powerpoint.jpg</thumbnail>
-<fanart>http://jbatt.com/wordpress/wp-content/uploads/2011/07/capital-kids-logo-for-powerpoint.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/chrisod1/Chris-Chrome/master/DISNEY%20MOVIES.xml</externallink>
-</channel>
-
-
-<channel>
-<name>[COLOR lime]UK Stand Up Archive[/COLOR]</name>
-<thumbnail>http://blogs.kent.ac.uk/isnews/files/2015/01/BSUCA-logo.png</thumbnail>
-<fanart>http://blogs.kent.ac.uk/isnews/files/2015/01/BSUCA-logo.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV-premium./master/ukstandup</externallink>
-</channel>
-
-
-  
-<channel>
-      <name>[COLOR red]L[/COLOR]IVE T[COLOR red]V[/COLOR]</name>
-  <thumbnail>http://cdn.livetvcdn.net/img/oglogo.png</thumbnail>
-<fanart>http://cdn.livetvcdn.net/img/oglogo.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/tdbnz/Wild-TV-premium./master/uktvnow.m3u</externallink>
-</channel>
-  </channels>
-  
-
-<channel>
+  <channel>
       <name>[COLOR lime]Geordie[/COLOR]</name>
   <thumbnail>http://express-conveyancing.co.uk/wp-content/uploads/2014/02/conveyancing-newcastle-upon-tyne.jpg</thumbnail>
 <fanart>http://express-conveyancing.co.uk/wp-content/uploads/2014/02/conveyancing-newcastle-upon-tyne.jpg</fanart>
