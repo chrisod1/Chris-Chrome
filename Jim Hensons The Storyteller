@@ -3,6 +3,13 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/dc/45/06/dc4506737d3d141c928fc24c68b5dcbe.jpg</fanart>
 #######################################################################################################################################
 
+<item>
+<title>[COLOR green]Youtube addon[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.freestreams</jsonrpc>
+<thumbnail>https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png</thumbnail>
+</item>
+
 <title>Minions (2015)</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_SX214_AL_.jpg</thumbnail>
 <link>https://lh3.googleusercontent.com/rFeTx86v2qTjWGj35KeJx6jBFuCJtUpxraKgaZfiS94=m22</link>
