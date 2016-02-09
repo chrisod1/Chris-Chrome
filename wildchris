@@ -80,6 +80,25 @@
 </channel>
   </channels>
   
+  <channel>
+      <name>[COLOR red]-----=====\\\\\//////=====-----[/COLOR]</name>
+  <thumbnail>h</thumbnail>
+<fanart>UKUK</fanart>
+<link>http://ignoreme</link>
+   <externallink>KUKK</externallink>
+</channel>
+  </channels>
+  
+  
+  <channel>
+      <name>[COLOR red]T[/COLOR]ES[COLOR red]T[/COLOR]</name>
+  <thumbnail>http://s22.postimg.org/yjudel36p/lfchdjhd.png</thumbnail>
+<fanart>http://www.thisisanfield.com/wp-content/uploads/mainstand_internal.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/dandy0850/iStream/master/tvshows/breakingbad.xml</externallink>
+</channel>
+  </channels>
+  
 
 
 
