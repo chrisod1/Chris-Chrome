@@ -1,216 +1,591 @@
 
-
 #EXTM3U
-
-#EXTINF:-1,FOX SPORTS
-http://162.248.6.122:8080/
-#EXTINF:-1,[COLOR red]New[/COLOR]NFL Network [COLOR green] Online [/COLOR]
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-#EXTINF:-1,FOX SPORTS LIVE TV 1 HD 
-http://bit.ly/1QlNuGy
-#EXTINF:-1,[COLOR red]New[/COLOR] FOX SPORTS LIVE TV 2 HD [COLOR green] Online [/COLOR]
-http://bit.ly/1V5STkg
-#EXTINF:-1,[COLOR red]New[/COLOR] FOX SPORTS LIVE TV 3 HD [COLOR green] Online [/COLOR]
-http://bit.ly/20co3Ke
-#EXTINF:-1,[COLOR red]New[/COLOR] FOX SPORTS LIVE TV 4 HD [COLOR green] Online [/COLOR]
-http://bit.ly/1NiOuVs
-#EXTINF:-1,[COLOR red]New[/COLOR] FOX SPORTS 4 HD [COLOR green] Online [/COLOR]
-http://162.248.6.122:8084
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
-#EXTINF:-0,[COLOR blue]------------- [B]SKY CHANNELS[/B] ------------------[/COLOR]
-http://?
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sports 1 [COLOR green] Online [/COLOR]
-http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sports 2 [COLOR green] Online [/COLOR]
-http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sports 3 [COLOR green] Online [/COLOR]
-http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sports 4 [COLOR green] Online [/COLOR]
-http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Sports 5 [COLOR green] Online [/COLOR]
-http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
-#EXTINF:-1,[COLOR red]New[/COLOR] SKY MOVIES THRILLER [COLOR orange] Unknown [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2760.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] SKY ONE [COLOR orange] Unknown [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2771.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Modern Great HD [COLOR orange] Unknown [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2742.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Modern Great [COLOR orange] Unknown [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2776.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Family HD [COLOR orange] Unknown [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2743.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Drama HD [COLOR orange] Unknown [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2777.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Disney HD [COLOR orange] Unknown [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2744.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Movies Action HD [COLOR orange] Unknown [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2778.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Drama [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2780.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Disney [COLOR orange] Unknown [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2782.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Atlantic [COLOR orange] Unknown [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2784.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Sky Arts 1 [COLOR orange] Unknown [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2785.ts
-
-#EXTINF:-1,[COLOR red]New[/COLOR] TLC [COLOR green]Online[/COLOR]
-http://62.210.206.122:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929
-
-#EXTINF:-1,[COLOR red]New[/COLOR] NBC HD [COLOR green]Online[/COLOR]
-http://hyper.de1-eu.com:8000/live/saeid/saeid/2148.m3u8
-#EXTINF:-1,[COLOR red]New[/COLOR] CNN HD [COLOR green]Online[/COLOR]
-http://hyper.de1-eu.com:8000/live/saeid/saeid/2165.m3u8
-#EXTINF:0,E! [COLOR green]Online[/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,Toonami Aftermath [COLOR green]Online[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
-#EXTINF:0,WEATHER NATION [COLOR green]Online[/COLOR]
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:0,RT (English) [COLOR green]Online[/COLOR]
-rtsp://46.249.213.93/broadcast/rt-news-tablet.3gp
-#EXTINF:0,ABC [COLOR green] Online [/COLOR]
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,[COLOR red]New[/COLOR] ABC HD [COLOR green]Online[/COLOR]
-http://hyper.de1-eu.com:8000/live/saeid/saeid/2173.m3u8
-#EXTINF:-1,[COLOR red]New[/COLOR] ABC NEWS [COLOR green]Online[/COLOR]
-http://hyper.de1-eu.com:8000/live/saeid/saeid/2172.m3u8
-#EXTINF:-1,ADULT SWIM [COLOR green] Online [/COLOR]
-http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,[COLOR red]New[/COLOR] BLOOMBERG HD [COLOR green] Online [/COLOR]
-http://hyper.de1-eu.com:8000/live/saeid/saeid/2171.m3u8
-#EXTINF:-1,BBC ENTERTAINMENT [COLOR green] Online [/COLOR]
-http://200.76.77.237:80/LIVE/H01/CANAL253/PROFILE03.m3u8?%2f.ts
-#EXTINF:0,WGN (CW) [COLOR green] Online [/COLOR]
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-#EXTINF:0,Weather Channel US [COLOR green]Online[/COLOR]
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,FOX 1 HD [COLOR green] Online [/COLOR]
-http://200.76.77.237:80/LIVE/H01/CANAL415/PROFILE03.m3u8?%2f.ts
-#EXTINF:-1,FOX MOVIES HD [COLOR green] Online [/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1,FOX ACTION HD [COLOR green] Online [/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,Tru tv [COLOR green] Online [/COLOR]
-http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
-#EXTINF:0,NASA TV [COLOR green] Online [/COLOR]
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:-1,[COLOR red]New[/COLOR] FX [COLOR green] Online [/COLOR]
-http://play.uktvnow.net:1935/live/fx9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,The Florida Channel [COLOR green] Online [/COLOR]
-rtmp://webcasting.thefloridachannel.org/live/tvweb1
-#EXTINF:0,The Jewellery Channel (TJC) [COLOR green] Online [/COLOR]
-http://llnw.live.simplestream.com/coder3/coder.channels.channel18/hls/playlist.m3u8
-#EXTINF:0,WGN [COLOR green] Online [/COLOR]
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-#EXTINF:0,PAC-12 Arizona [COLOR green] Online [/COLOR]
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-#EXTINF:0,PAC-12 Bay Area [COLOR green] Online [/COLOR]
-http://xrxs.net/video/live-p12baya-4728.m3u8?
-
-#EXTINF:-1,[COLOR red]New[/COLOR] LIFE TIME [COLOR green] Online [/COLOR]
-http://play.uktvnow.net:1935/live/lifetime9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1,[COLOR red]New[/COLOR] Really [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2745.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Pick TV [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2747.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Nick JR [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2748.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Nick JR 2[COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2791.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] NATIONAL GEOGRAPHIC [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2793.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Good Food [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2801.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Gold [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2802.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Fox [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2803.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Film 4 [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2806.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] E! [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2811.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Dmax [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2813.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Disney Junior [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2814.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Disney Channel [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2815.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Discovery Science HD [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2818.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Discovery Science [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2819.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Discovery Investigation [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2820.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Discovery History [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2821.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Comedy Central [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2822.ts
-
-#EXTINF:-1,[COLOR red]New[/COLOR] Comedy Central Extra [COLOR green] Online [/COLOR]
-http://77.76.140.251:22637/udp/231.2.2.26:1234
-
-#EXTINF:-1,[COLOR red]New[/COLOR] ITV 4 [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2825.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] CBS Drama [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2826.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] CBS Action [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2827.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Cartoon Network [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2828.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] BBC 1 HD [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2752.ts
-#EXTINF:-1,[COLOR red]New[/COLOR] Animal Planet [COLOR green] Online [/COLOR]
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/2834.ts 
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
-#EXTINF:-0,[COLOR yellow]------------- [B]24/7 SHOWS[/B] ------------------[/COLOR]
-http://?
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
-#EXTINF:0,[COLOR red]New[/COLOR] Classic (24/7) [COLOR green] Online [/COLOR]
-http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
-#EXTINF:-0,[COLOR red]New[/COLOR] Film Noir Classic Channel  (24/7) [COLOR green] Online [/COLOR]
-http://veetle.com/index.php/hls/streamMbrfast/560254c83ba47_/stream.m3u8
-#EXTINF:-0,[COLOR red]New[/COLOR] Tom & Jerry [COLOR green] Online [/COLOR]
-rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
-#EXTINF:-0,[COLOR red]New[/COLOR] South Park - Uncensored (24/7) [COLOR green] Online [/COLOR]
-http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
-#EXTINF:-0,[COLOR red]New[/COLOR] Simpsons (24/7) [COLOR green] Online [/COLOR]
-http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
-#EXTINF:-0,[COLOR red]New[/COLOR] SpongeBob (24/7) [COLOR green] Online [/COLOR]
-http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
-#EXTINF:-1,[COLOR red]New[/COLOR] King of the Hill (24/7) [COLOR green] Online [/COLOR]
-http://veetle.com/index.php/hls/streamMbrFast/4f9436ece56e2_/stream.m3u8
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
-#EXTINF:-1,[COLOR #00FA9A]------- [B]NON ENGLISH SPORTS[/B] ------------[/COLOR]
-http://?
-#EXTINF:-1,[COLOR black]__________________________________________________________________________[/COLOR]
-http://?
-#EXTINF:0,[COLOR red]New[/COLOR] ESPN + [COLOR green] Online [/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,[COLOR red]New[/COLOR] ESPN 2 [COLOR green] Online [/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1,SUPER SPORT 1 [COLOR green] Online [/COLOR]
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/830.m3u8
-#EXTINF:-1,SUPER SPORT 2 [COLOR green] Online [/COLOR]
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/829.m3u8
-#EXTINF:-1,SUPER SPORT 3 [COLOR green] Online [/COLOR]
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/965.m3u8
-#EXTINF:-1,SUPER SPORT 2 HD [COLOR green] Online [/COLOR]
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/430.m3u8
-#EXTINF:-1,SUPER SPORT 3 HD [COLOR green] Online [/COLOR]
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/431.m3u8
-#EXTINF:-1,SUPER SPORT 4 HD [COLOR green] Online [/COLOR]
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/432.m3u8
-#EXTINF:-1,SUPER SPORT 5 HD [COLOR green] Online [/COLOR]
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/929.m3u8
-#EXTINF:-1,Super Sport 4 HD [COLOR green] Online [/COLOR]
-http://iptvkosova.dyndns.tv:8000/live/exchange/iptv/966.m3u8
-#EXTINF:-1,Arena Sport 1 [COLOR green] Online [/COLOR]
+#EXTINF:-1 tvg-ID="" tvg-name="Alibi SD" tvg-logo="" group-title="UK",Alibi SD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1162.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="USA HD" tvg-logo="" group-title="ENERTAINMENT",USA HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1160.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBC HD" tvg-logo="" group-title="ENERTAINMENT",NBC HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1151.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TNT HD" tvg-logo="" group-title="ENERTAINMENT",TNT HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1150.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Space" tvg-logo="" group-title="ENERTAINMENT",Space
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1147.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS" tvg-logo="" group-title="ENERTAINMENT",CBS
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1149.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nicktoons" tvg-logo="" group-title="KIDS",Nicktoons
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1146.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN News" tvg-logo="" group-title="SPORTS",ESPN News
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1148.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Encore HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rvwqpr1434501268.png" group-title="MOVIES",Encore HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/872.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SportsNet 1" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxqyw1433381675.png" group-title="SPORTS",SportsNet 1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/534.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBA TV HD" tvg-logo="" group-title="SPORTS",NBA TV HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1145.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports F1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tqxrqx1433965330.png" group-title="SPORTS",Sky Sports F1 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1144.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 5 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/wxqusv1433965308.png" group-title="SPORTS",Sky Sports 5 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1143.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 4 HD" tvg-logo="" group-title="SPORTS",Sky Sports 4 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1142.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 3 HD" tvg-logo="" group-title="SPORTS",Sky Sports 3 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1141.m3u8
+#EXTINF:-1 tvg-ID="NFL Network (US)" tvg-name="NFL Network HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/11/Nfl_network_hd.png/revision/latest?cb=20140814182817" group-title="SPORTS",NFL Network HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1139.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="WE TV" tvg-logo="http://www.thelogodb.com/images/media/logo/ystyvp1434506239.png" group-title="ENERTAINMENT",WE TV
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1070.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Max And Paddy" tvg-logo="" group-title="",Max And Paddy
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1138.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sports 1 HD" tvg-logo="" group-title="SPORTS",Sports 1 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1136.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MotorVision HD" tvg-logo="" group-title="SPORTS",MotorVision HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1135.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ME TV" tvg-logo="" group-title="ENERTAINMENT",ME TV
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1137.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="News 12 Long Island" tvg-logo="" group-title="NEWS",News 12 Long Island
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1117.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="News 12 Hudson Valley" tvg-logo="" group-title="NEWS",News 12 Hudson Valley
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1124.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="News 12 Connecticut" tvg-logo="" group-title="NEWS",News 12 Connecticut
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1121.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="News 12 Brooklyn" tvg-logo="" group-title="NEWS",News 12 Brooklyn
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1120.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="News 12 The Bronx" tvg-logo="" group-title="NEWS",News 12 The Bronx
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1118.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="France24 EN" tvg-logo="" group-title="NEWS",France24 EN
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1099.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="France24 AR" tvg-logo="" group-title="NEWS",France24 AR
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1101.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="France24" tvg-logo="" group-title="NEWS",France24
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1100.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Kanal 7 HD" tvg-logo="" group-title="TURKISH",Kanal 7 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1112.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HABERTurk" tvg-logo="" group-title="TURKISH",HABERTurk
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1110.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="uLKE TV HD" tvg-logo="" group-title="TURKISH",uLKE TV HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1111.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRT1 HD" tvg-logo="" group-title="TURKISH",TRT1 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1103.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRT HABER HD" tvg-logo="" group-title="TURKISH",TRT HABER HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1104.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRT cocuk" tvg-logo="" group-title="TURKISH",TRT cocuk
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1106.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRT AVAZ" tvg-logo="" group-title="TURKISH",TRT AVAZ
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1107.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SHOW TV HD" tvg-logo="" group-title="TURKISH",SHOW TV HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1109.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="News 12 Westchester" tvg-logo="" group-title="NEWS",News 12 Westchester
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1114.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="News 12 New Jersey" tvg-logo="" group-title="NEWS",News 12 New Jersey
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1116.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBSN" tvg-logo="" group-title="NEWS",CBSN
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1072.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports South" tvg-logo="" group-title="SPORTS",Fox Sports South
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1049.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="" group-title="SPORTS",Fox Sports 2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1051.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 1" tvg-logo="http://www.thelogodb.com/images/media/logo/vyvwrr1433380362.png" group-title="SPORTS",Fox Sports 1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1050.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Soccer Plus HD" tvg-logo="" group-title="SPORTS",Fox Soccer Plus HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1046.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Soccer Plus" tvg-logo="" group-title="SPORTS",Fox Soccer Plus
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1048.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox College Sports" tvg-logo="" group-title="SPORTS",Fox College Sports
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1052.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports South HD" tvg-logo="" group-title="SPORTS",Fox Sports South HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1047.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BYU TV" tvg-logo="" group-title="ENERTAINMENT",BYU TV
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1039.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Golf HD" tvg-logo="" group-title="SPORTS",Golf HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1037.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Washington HD" tvg-logo="" group-title="SPORTS",PAC-12 Washington HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1036.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Oregon" tvg-logo="" group-title="SPORTS",PAC-12 Oregon
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1034.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Oregon HD" tvg-logo="" group-title="SPORTS",PAC-12 Oregon HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1035.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Los Angeles" tvg-logo="" group-title="SPORTS",PAC-12 Los Angeles
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1033.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Bay Area" tvg-logo="" group-title="SPORTS",PAC-12 Bay Area
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1031.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Bay Area HD" tvg-logo="" group-title="SPORTS",PAC-12 Bay Area HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1032.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Arizona" tvg-logo="" group-title="SPORTS",PAC-12 Arizona
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1029.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Arizona HD" tvg-logo="" group-title="SPORTS",PAC-12 Arizona HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1030.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="WGN News Chicago" tvg-logo="" group-title="NEWS",WGN News Chicago
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1025.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 National" tvg-logo="" group-title="SPORTS",PAC-12 National
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1028.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Mountain HD" tvg-logo="" group-title="SPORTS",PAC-12 Mountain HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1027.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Golf" tvg-logo="" group-title="SPORTS",Golf
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1026.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NASA TV" tvg-logo="" group-title="NEWS",NASA TV
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1024.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox College Sports HD" tvg-logo="" group-title="SPORTS",Fox College Sports HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1023.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBC EXTRA TIME HD5 (3PM) LIVE ON MATCHES ONLY" tvg-logo="" group-title="SPORTS",NBC EXTRA TIME HD5 (3PM) LIVE ON MATCHES ONLY
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1015.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBC EXTRA TIME HD4 (3PM) LIVE ON MATCHES ONLY" tvg-logo="" group-title="SPORTS",NBC EXTRA TIME HD4 (3PM) LIVE ON MATCHES ONLY
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1016.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBC EXTRA TIME HD3 (3PM) LIVE ON MATCHES ONLY" tvg-logo="" group-title="SPORTS",NBC EXTRA TIME HD3 (3PM) LIVE ON MATCHES ONLY
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1017.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBC EXTRA TIME HD2 (3PM) LIVE ON MATCHES ONLY" tvg-logo="" group-title="SPORTS",NBC EXTRA TIME HD2 (3PM) LIVE ON MATCHES ONLY
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1018.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBC EXTRA TIME HD1 (3PM) LIVE ON MATCHES ONLY" tvg-logo="" group-title="SPORTS",NBC EXTRA TIME HD1 (3PM) LIVE ON MATCHES ONLY
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1019.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CTH STADIUM 1 HD" tvg-logo="" group-title="SPORTS",CTH STADIUM 1 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1014.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CTH STADIUM 2 HD" tvg-logo="" group-title="SPORTS",CTH STADIUM 2 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1013.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CTH STADIUM 3 HD" tvg-logo="" group-title="SPORTS",CTH STADIUM 3 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1012.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CTH STADIUM 4 HD" tvg-logo="" group-title="SPORTS",CTH STADIUM 4 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1011.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CTH STADIUM 5 HD" tvg-logo="" group-title="SPORTS",CTH STADIUM 5 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1010.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CTH STADIUM 6 HD" tvg-logo="" group-title="SPORTS",CTH STADIUM 6 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1009.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CTH STADIUM X HD" tvg-logo="" group-title="SPORTS",CTH STADIUM X HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1008.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premier League Pass 2" tvg-logo="" group-title="SPORTS",Premier League Pass 2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/969.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premier League Pass 3" tvg-logo="" group-title="SPORTS",Premier League Pass 3
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/970.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premier League Pass 4" tvg-logo="" group-title="SPORTS",Premier League Pass 4
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/971.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premier League Pass 5" tvg-logo="" group-title="SPORTS",Premier League Pass 5
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/972.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premier League Pass 1" tvg-logo="" group-title="SPORTS",Premier League Pass 1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/973.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports News HQ" tvg-logo="http://www.thelogodb.com/images/media/logo/yyuppq1433965339.png" group-title="SPORTS",Sky Sports News HQ
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/550.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports News HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qttxwy1438374067.png" group-title="SPORTS",Sky Sports News HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/596.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 1 SD" tvg-logo="" group-title="SPORTS",Sky Sports 1 SD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/944.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 2 SD" tvg-logo="" group-title="SPORTS",Sky Sports 2 SD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/612.m3u8
+#EXTINF:-1 tvg-ID="I402.hk6q.metabroadcast.com" tvg-name="Sky Sports 1 HD" tvg-logo="" group-title="SPORTS",Sky Sports 1 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/615.m3u8
+#EXTINF:-1 tvg-ID="I403.hk6r.metabroadcast.com" tvg-name="Sky Sports 2 HD" tvg-logo="" group-title="SPORTS",Sky Sports 2 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1040.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 3" tvg-logo="" group-title="SPORTS",Sky Sports 3
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/609.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 4" tvg-logo="http://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png" group-title="SPORTS",Sky Sports 4
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/606.m3u8
+#EXTINF:-1 tvg-ID="I406.hn8n.metabroadcast.com" tvg-name="Sky Sports 5" tvg-logo="http://www.thelogodb.com/images/media/logo/ruuwux1433965299.png" group-title="General Movies",Sky Sports 5
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/603.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports F1" tvg-logo="http://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png" group-title="SPORTS",Sky Sports F1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/598.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Box Office HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vturwx1438213534.png" group-title="SPORTS",Sky Sports Box Office HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/599.m3u8
+#EXTINF:-1 tvg-ID="I412.hk2m.metabroadcast.com" tvg-name="Eurosport 1" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p120151114275.png" group-title="SPORTS",Eurosport 1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/459.m3u8
+#EXTINF:-1 tvg-ID="I411.hnz8.metabroadcast.com" tvg-name="Eurosport 2 HD" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p1201511141745.png" group-title="SPORTS",Eurosport 2 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/460.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1HD" tvg-logo="http://static.trustedreviews.com/94/0000286fc/7300/BT-Sport.jpg" group-title="SPORTS",BT Sport 1HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/461.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="SPORTS",BT Sport 2 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/883.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sports 2 HD - USA UFC" tvg-logo="" group-title="SPORTS",BT Sports 2 HD - USA UFC
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1043.m3u8
+#EXTINF:-1 tvg-ID="I427.hn4x.metabroadcast.com" tvg-name="BT Sport 2" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p1201308011804.png" group-title="SPORTS",BT Sport 2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1042.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sports 2 SD - USA UFC" tvg-logo="" group-title="SPORTS",BT Sports 2 SD - USA UFC
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1044.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sports Extra" tvg-logo="http://www.thelogodb.com/images/media/logo/stxpwq1433361453.png" group-title="SPORTS",BT Sports Extra
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/468.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport Europe HD" tvg-logo="http://www.arsenal.com/assets/_files/scaled/711x400/jun_15/gun__1433860323_BTSportEurope711.jpg" group-title="SPORTS",BT Sport Europe HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/467.m3u8
+#EXTINF:-1 tvg-ID="I429.hm62.metabroadcast.com" tvg-name="LFC TV" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p1201211211618.png" group-title="SPORTS",LFC TV
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/692.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Chelsea TV" tvg-logo="" group-title="SPORTS",Chelsea TV
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/774.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MUTV" tvg-logo="" group-title="SPORTS",MUTV
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/678.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="WWE NETWORK HD - USA LINK" tvg-logo="" group-title="SPORTS",WWE NETWORK HD - USA LINK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1006.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="WWE NETWORK HD" tvg-logo="" group-title="SPORTS",WWE NETWORK HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/548.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER HD" tvg-logo="" group-title="UK",PREMIER HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/659.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Setanta" tvg-logo="" group-title="SPORTS",Setanta
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/645.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Setanta Sport Ireland" tvg-logo="" group-title="SPORTS",Setanta Sport Ireland
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/643.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Racing UK" tvg-logo="" group-title="UK",Racing UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/654.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="At The Races" tvg-logo="" group-title="UK",At The Races
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/815.m3u8
+#EXTINF:-1 tvg-ID="I437.hn85.metabroadcast.com" tvg-name="BoxNation" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p1201407311898.png" group-title="UK",BoxNation
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/458.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="SPORTS",Fox Sports 1 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/879.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="SPORTS",Fox Sports 2 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/880.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TSN1" tvg-logo="http://www.thelogodb.com/images/media/logo/upsspx1433379567.png" group-title="SPORTS",TSN1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/551.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TSN2" tvg-logo="http://www.thelogodb.com/images/media/logo/sutruq1433379787.png" group-title="SPORTS",TSN2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/552.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TSN3" tvg-logo="http://www.thelogodb.com/images/media/logo/ssxtux1433380256.png" group-title="SPORTS",TSN3
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/553.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TSN4" tvg-logo="http://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png" group-title="SPORTS",TSN4
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/554.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TSN5" tvg-logo="http://www.thelogodb.com/images/media/logo/sytpty1433380112.png" group-title="SPORTS",TSN5
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/555.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Astro Sports 1" tvg-logo="" group-title="SPORTS",Astro Sports 1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/829.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Astro Sports 2" tvg-logo="" group-title="SPORTS",Astro Sports 2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/828.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Astro Sports 3" tvg-logo="" group-title="SPORTS",Astro Sports 3
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/827.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 1" tvg-logo="" group-title="SPORTS",BeinSports 1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/945.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 2" tvg-logo="" group-title="SPORTS",BeinSports 2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/953.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 3" tvg-logo="" group-title="SPORTS",BeinSports 3
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/954.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 4" tvg-logo="" group-title="SPORTS",BeinSports 4
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/955.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 5" tvg-logo="" group-title="SPORTS",BeinSports 5
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/956.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 6" tvg-logo="" group-title="SPORTS",BeinSports 6
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/957.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 7" tvg-logo="" group-title="SPORTS",BeinSports 7
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/958.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 8" tvg-logo="" group-title="SPORTS",BeinSports 8
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/959.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 9" tvg-logo="" group-title="SPORTS",BeinSports 9
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/960.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 10" tvg-logo="" group-title="SPORTS",BeinSports 10
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/946.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 11" tvg-logo="" group-title="SPORTS",BeinSports 11
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/947.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 12" tvg-logo="" group-title="SPORTS",BeinSports 12
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/948.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 16" tvg-logo="" group-title="SPORTS",BeinSports 16
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/952.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Premier Sports" tvg-logo="" group-title="SPORTS",Premier Sports
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/935.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBC Sports" tvg-logo="" group-title="SPORTS",NBC Sports
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/929.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS Sports" tvg-logo="http://www.thelogodb.com/images/media/logo/tqxsrx1434474970.png" group-title="SPORTS",CBS Sports
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/927.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BBC News Channel" tvg-logo="" group-title="UK",BBC News Channel
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/801.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Red Button 1" tvg-logo="" group-title="UK",BBC Red Button 1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/796.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Alba" tvg-logo="" group-title="UK",BBC Alba
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/803.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BBC One London" tvg-logo="" group-title="UK",BBC One London
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/811.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Two England" tvg-logo="" group-title="UK",BBC Two England
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/809.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Three" tvg-logo="" group-title="UK",BBC Three
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/807.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Four" tvg-logo="" group-title="UK",BBC Four
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/805.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ITV London" tvg-logo="" group-title="UK",ITV London
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/698.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ITV2" tvg-logo="" group-title="UK",ITV2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/710.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ITV3" tvg-logo="" group-title="UK",ITV3
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/709.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ITV4" tvg-logo="" group-title="UK",ITV4
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/708.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ITV Encore" tvg-logo="" group-title="UK",ITV Encore
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/704.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Channel 4" tvg-logo="" group-title="UK",Channel 4
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/779.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Channel 5" tvg-logo="" group-title="UK",Channel 5
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/778.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="5USA" tvg-logo="http://www.thelogodb.com/images/media/logo/vyvpvs1433965804.png" group-title="UK",5USA
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/912.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky News" tvg-logo="" group-title="NEWS",Sky News
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/622.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky 1" tvg-logo="" group-title="UK",Sky 1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/620.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky 2" tvg-logo="http://www.thelogodb.com/images/media/logo/qvyvxp1433964892.png" group-title="UK",Sky 2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/594.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Atlantic" tvg-logo="" group-title="UK",Sky Atlantic
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/639.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Real Lives" tvg-logo="" group-title="UK",Real Lives
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1007.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Living" tvg-logo="" group-title="UK",Sky Living
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/638.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Arts" tvg-logo="" group-title="UK",Sky Arts
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/640.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TLC HD" tvg-logo="" group-title="ENERTAINMENT",TLC HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/936.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Spike" tvg-logo="" group-title="ENERTAINMENT",Spike
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/921.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Showtime" tvg-logo="http://www.thelogodb.com/images/media/logo/xsvrwv1433452379.png" group-title="MOVIES",Showtime
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/930.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Poker Central" tvg-logo="" group-title="SPORTS",Poker Central
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/916.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PBS America" tvg-logo="" group-title="ENERTAINMENT",PBS America
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/923.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nick" tvg-logo="http://www.thelogodb.com/images/media/logo/tvwvsp1433780246.png" group-title="KIDS",Nick
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/938.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="The Weather Channel USA" tvg-logo="" group-title="NEWS",The Weather Channel USA
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/1003.m3u8
+#EXTINF:-1 tvg-ID="I68605.labs.zap2it.com" tvg-name="WILLOW" tvg-logo="http://www.thelogodb.com/images/media/logo/vtqprq1434506252.png" group-title="SPORTS",WILLOW
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/941.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="H2" tvg-logo="" group-title="ENERTAINMENT",H2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/940.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="http://www.thelogodb.com/images/media/logo/uwysvp1436890056.png" group-title="ENERTAINMENT",FX
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/937.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CW" tvg-logo="" group-title="ENERTAINMENT",CW
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/910.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CTV" tvg-logo="" group-title="ENERTAINMENT",CTV
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/920.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Create and Craft" tvg-logo="" group-title="ENERTAINMENT",Create and Craft
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/924.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTE Two" tvg-logo="" group-title="UK",RTE Two
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/648.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTE One" tvg-logo="" group-title="UK",RTE One
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/649.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Bravo" tvg-logo="" group-title="ENERTAINMENT",Bravo
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/918.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Food Network" tvg-logo="" group-title="UK",Food Network
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/932.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Yesterday" tvg-logo="http://www.thelogodb.com/images/media/logo/sytpwv1433781204.png" group-title="UK",Yesterday
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/562.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Watch" tvg-logo="http://www.thelogodb.com/images/media/logo/qxxspr1434317847.png" group-title="General Movies",Watch
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/563.m3u8
+#EXTINF:-1 tvg-ID="I356.hkzc.metabroadcast.com" tvg-name="VH1" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="General Movies",VH1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/566.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UTV Ireland" tvg-logo="http://www.thelogodb.com/images/media/logo/syyvur1444912875.png" group-title="General Movies",UTV Ireland
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/568.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Universal Channel UK" tvg-logo="http://www.thelogodb.com/images/media/logo/vwsuqs1433781153.png" group-title="UK",Universal Channel UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/569.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV3" tvg-logo="http://www.thelogodb.com/images/media/logo/yqrqpy1436174246.png" group-title="ENERTAINMENT",TV3
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/571.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="True Entertainment" tvg-logo="" group-title="UK",True Entertainment
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/574.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="True Drama" tvg-logo="" group-title="UK",True Drama
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/575.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Travel Channel" tvg-logo="http://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png" group-title="ENERTAINMENT",Travel Channel
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/576.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TLC UK" tvg-logo="http://www.thelogodb.com/images/media/logo/xvxyvp1433781081.png" group-title="UK",TLC UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/580.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Tiny Pop" tvg-logo="" group-title="UK",Tiny Pop
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/582.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TCM UK" tvg-logo="" group-title="UK",TCM UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/585.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Syfy UK" tvg-logo="" group-title="UK",Syfy UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/586.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Premiere" tvg-logo="" group-title="MOVIES",Sky Movies Premiere
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/628.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Showcase" tvg-logo="" group-title="MOVIES",Sky Movies Showcase
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/624.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Comedy" tvg-logo="http://www.thelogodb.com/images/media/logo/vytvxy1433965098.png" group-title="General Movies",Sky Movies Comedy
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/634.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Action & Adventure" tvg-logo="" group-title="MOVIES",Sky Movies Action & Adventure
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/636.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Disney" tvg-logo="" group-title="MOVIES",Sky Movies Disney
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/633.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Family" tvg-logo="" group-title="MOVIES",Sky Movies Family
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/632.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Select" tvg-logo="" group-title="MOVIES",Sky Movies Select
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/625.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Crime & Thriller" tvg-logo="" group-title="MOVIES",Sky Movies Crime & Thriller
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/626.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Aliens" tvg-logo="" group-title="MOVIES",Sky Movies Aliens
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/629.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Drama & Romance" tvg-logo="http://www.thelogodb.com/images/media/logo/uswwrr1433841245.png" group-title="MOVIES",Sky Movies Drama & Romance
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/556.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Superheroes" tvg-logo="" group-title="MOVIES",Sky Movies Superheroes
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/623.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Film4" tvg-logo="" group-title="UK",Film4
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/989.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Movies" tvg-logo="" group-title="UK",Sony Movies
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/593.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="True Movies 1" tvg-logo="" group-title="UK",True Movies 1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/573.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="True Movies 2" tvg-logo="" group-title="UK",True Movies 2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/572.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTE Junior" tvg-logo="" group-title="UK",RTE Junior
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/650.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RT HD" tvg-logo="" group-title="UK",RT HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/651.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Quest" tvg-logo="" group-title="UK",Quest
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/656.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Pick" tvg-logo="" group-title="UK",Pick
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/664.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NickToon UK" tvg-logo="" group-title="KIDS",NickToon UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/667.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nick Jr." tvg-logo="" group-title="UK",Nick Jr.
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/672.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon" tvg-logo="" group-title="UK",Nickelodeon
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/674.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="UK",Nat Geo Wild
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/675.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo" tvg-logo="" group-title="UK",Nat Geo
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/677.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MTV1 UK" tvg-logo="" group-title="UK",MTV1 UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/679.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Movies 4 Men" tvg-logo="" group-title="UK",Movies 4 Men
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/689.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Motors Tv" tvg-logo="" group-title="SPORTS",Motors Tv
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/690.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="More4" tvg-logo="http://www.thelogodb.com/images/media/logo/tqrsyv1433952947.png" group-title="UK",More4
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/691.m3u8
+#EXTINF:-1 tvg-ID="I236.hn6g.metabroadcast.com" tvg-name="Lifetime UK" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p1201512011845.png" group-title="UK",Lifetime UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/693.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Kix" tvg-logo="" group-title="KIDS",Kix
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/695.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ID Europe" tvg-logo="" group-title="UK",ID Europe
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/722.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Horror Channel" tvg-logo="" group-title="UK",Horror Channel
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/723.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Home" tvg-logo="" group-title="UK",Home
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/724.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HGTV" tvg-logo="" group-title="ENERTAINMENT",HGTV
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/992.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GSN" tvg-logo="http://www.reeltracks.at/portals/0/grafik/logos/01%20TV%20Networks/GSN.jpg" group-title="ENERTAINMENT",GSN
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/993.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="History 2" tvg-logo="" group-title="UK",History 2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/726.m3u8
+#EXTINF:-1 tvg-ID="I66804.labs.zap2it.com" tvg-name="NGeoWild" tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group-title="ENERTAINMENT",NGeoWild
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/988.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NatGeo" tvg-logo="http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png" group-title="ENERTAINMENT",NatGeo
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/987.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Good Food" tvg-logo="" group-title="UK",Good Food
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/729.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Gold" tvg-logo="" group-title="UK",Gold
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/730.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox UK" tvg-logo="" group-title="UK",Fox UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/733.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Eden" tvg-logo="http://eden.uktv.co.uk/static/img/default_image.jpg" group-title="UK",Eden
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/739.m3u8
+#EXTINF:-1 tvg-ID="I202.hkvf.metabroadcast.com" tvg-name="E4" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p120130710605.png" group-title="UK",E4
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/740.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Drama" tvg-logo="" group-title="UK",Drama
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/741.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Dmax" tvg-logo="" group-title="UK",Dmax
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/743.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD UK" tvg-logo="" group-title="UK",Disney XD UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/744.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Jr. UK" tvg-logo="" group-title="UK",Disney Jr. UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/746.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Disney UK" tvg-logo="" group-title="UK",Disney UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/748.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Turbo" tvg-logo="" group-title="UK",Discovery Turbo
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/750.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Shed" tvg-logo="" group-title="UK",Discovery Shed
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/751.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science" tvg-logo="" group-title="UK",Discovery Science
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/753.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Investigation" tvg-logo="" group-title="UK",Discovery Investigation
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/754.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="UK",Discovery Home & Health
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/756.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery History UK" tvg-logo="" group-title="UK",Discovery History UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/758.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery uk" tvg-logo="" group-title="UK",Discovery uk
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/761.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Dave" tvg-logo="" group-title="UK",Dave
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/764.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Crime & Investigation" tvg-logo="" group-title="UK",Crime & Investigation
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/765.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central Extra" tvg-logo="" group-title="UK",Comedy Central Extra
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/769.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central uk" tvg-logo="" group-title="UK",Comedy Central uk
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/771.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC uk" tvg-logo="" group-title="UK",CNBC uk
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/773.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS Reality" tvg-logo="" group-title="UK",CBS Reality
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/782.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS Drama" tvg-logo="" group-title="UK",CBS Drama
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/783.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS Action" tvg-logo="" group-title="UK",CBS Action
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/784.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" group-title="UK",Cartoon Network
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/788.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang UK" tvg-logo="http://www.thelogodb.com/images/media/logo/rprpvr1434469005.png" group-title="UK",Boomerang UK
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/790.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BET" tvg-logo="" group-title="UK",BET
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/793.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qvwuvu1433424285.png" group-title="UK",Animal Planet HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/818.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AMC HD from BT" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p1201508271974.png" group-title="UK",AMC HD from BT
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/819.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="5*" tvg-logo="http://www.thelogodb.com/images/media/logo/ttsqxu1433964623.png" group-title="UK",5*
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/824.m3u8
+#EXTINF:-1 tvg-ID="I140.hm2w.metabroadcast.com" tvg-name="4seven" tvg-logo="http://www.thelogodb.com/images/media/logo/ruwxqx1434019035.png" group-title="UK",4seven
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/825.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="USA" tvg-logo="http://www.thelogodb.com/images/media/logo/yswxwr1433432126.png" group-title="ENERTAINMENT",USA
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/878.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NFL" tvg-logo="http://bestwindows8apps.s3.amazonaws.com/cache/5a/0e/5a0e144dab4743cc448882729e0e93d4.png" group-title="SPORTS",NFL
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/884.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Lifetime" tvg-logo="" group-title="ENERTAINMENT",Lifetime
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/885.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ID" tvg-logo="" group-title="ENERTAINMENT",ID
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/886.m3u8
+#EXTINF:-1 tvg-ID="HBO Comedy" tvg-name="Hallmark" tvg-logo="" group-title="ENERTAINMENT",Hallmark
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/906.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="http://www.thelogodb.com/images/media/logo/xwupsp1437613587.png" group-title="ENERTAINMENT",TNT
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/876.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBATV" tvg-logo="https://www.mydish.com/images/stationLogos/NBATV.png" group-title="SPORTS",NBATV
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/864.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN  2" tvg-logo="" group-title="SPORTS",ESPN  2
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/860.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CNN" tvg-logo="http://www.thelogodb.com/images/media/logo/uyswus1433941237.png" group-title="NEWS",CNN
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/853.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 HD" tvg-logo="http://www.thewrap.com/wp-content/uploads/2014/11/vh1-logo.jpg" group-title="ENERTAINMENT",VH1 HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/545.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Tennis" tvg-logo="http://www.thelogodb.com/images/media/logo/qvrqrw1434465220.png" group-title="SPORTS",Tennis
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/539.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Starz HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qxpuxt1433428199.png" group-title="MOVIES",Starz HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/537.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="OWN" tvg-logo="http://www.thelogodb.com/images/media/logo/upyqux1434563981.png" group-title="ENERTAINMENT",OWN
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/531.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MoreMax" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4d/MoreMax_logo.svg/revision/latest?cb=20100321192742" group-title="MOVIES",MoreMax
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/524.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LMN" tvg-logo="http://www.thelogodb.com/images/media/logo/vxqtwx1434505261.png" group-title="ENERTAINMENT",LMN
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/521.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="History" tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png" group-title="UK",History
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/517.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="http://www.thelogodb.com/images/media/logo/rvruwp1433944413.png" group-title="MOVIES",HBO
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/516.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBOCmdy HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qwppsw1434502702.png" group-title="MOVIES",HBOCmdy HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/515.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBAL TV" tvg-logo="" group-title="ENERTAINMENT",GLOBAL TV
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/512.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox News" tvg-logo="http://www.thelogodb.com/images/media/logo/sqwqtt1436847658.png" group-title="NEWS",Fox News
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/505.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN" tvg-logo="http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png" group-title="SPORTS",ESPN
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/502.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="E!" tvg-logo="http://www.thelogodb.com/images/media/logo/vrrvwt1436890500.png" group-title="ENERTAINMENT",E!
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/498.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery" tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png" group-title="ENERTAINMENT",Discovery
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/495.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vruusq1434471511.png" group-title="ENERTAINMENT",CBS HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/484.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon" tvg-logo="" group-title="KIDS",Cartoon
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/482.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Bloomberg" tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png" group-title="NEWS",Bloomberg
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/480.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEINS1" tvg-logo="http://www.thelogodb.com/images/media/logo/rtquux1441739622.png" group-title="SPORTS",BEINS1
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/478.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://www.thelogodb.com/images/media/logo/txvtyy1441049730.png" group-title="ENERTAINMENT",AMC
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/475.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TBS HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png" group-title="ENERTAINMENT",TBS HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/849.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Syfy HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yruyur1436892079.png" group-title="ENERTAINMENT",Syfy HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/848.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBC" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png" group-title="ENERTAINMENT",NBC
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/847.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xquwxv1436847349.png" group-title="ENERTAINMENT",FOX HD
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/844.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax" tvg-logo="http://www.thelogodb.com/images/media/logo/wsrwxu1439369648.png" group-title="MOVIES",Cinemax
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/840.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBC" tvg-logo="http://www.lyngsat-logo.com/hires/cc/cbc_tv_ca.png" group-title="ENERTAINMENT",CBC
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/836.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ABC" tvg-logo="http://www.thelogodb.com/images/media/logo/xuyquu1434467056.png" group-title="ENERTAINMENT",ABC
+http://185.115.32.12:8000/live/5xTjTSGN/eeXwdUP1/832.m3u8
 
