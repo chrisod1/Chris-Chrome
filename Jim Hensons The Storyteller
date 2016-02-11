@@ -6,7 +6,7 @@
 <item>
 <title>[COLOR green]Youtube addon[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.freestreams</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube</jsonrpc>
 <thumbnail>https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png</thumbnail>
 </item>
 
