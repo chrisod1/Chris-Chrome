@@ -10,7 +10,7 @@
   </channels>
   
 <channel>
-      <name>[COLOR red]L[/COLOR]IVE T[COLOR red]V[/COLOR]</name>
+      <name>[COLOR red]L[/COLOR]IVE T[COLOR red]V[/COLOR]  [COLOR red]R[/COLOR]ANDOM M3U LIST I FIN[COLOR red]D[/COLOR]</name>
   <thumbnail>http://cdn.livetvcdn.net/img/oglogo.png</thumbnail>
 <fanart>http://cdn.livetvcdn.net/img/oglogo.png</fanart>
 <link>http://ignoreme</link>
@@ -90,15 +90,7 @@
   </channels>
   
   
-  <item>
-      <name>[COLOR red]T[/COLOR]ES[COLOR red]Tw2[/COLOR]</name>
-  <thumbnail>http://s22.postimg.org/yjudel36p/lfchdjhd.png</thumbnail>
-<fanart>http://www.thisisanfield.com/wp-content/uploads/mainstand_internal.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/chrisod1/Chris-Chrome/master/Jim%20Hensons%20The%20Storyteller</externallink>
-</item>
-  </channels>
-  
+
 
 
 
