@@ -28,14 +28,6 @@
 </channel>
   </channels>
   
-  <channel>
-      <name>[COLOR red]F[/COLOR]RESH FIV[COLOR red]E[/COLOR]</name>
-  <thumbnail>http://downloadicons.net/sites/default/files/number-5-icon-63213.png</thumbnail>
-  <fanart>http://socialnewsdaily.com/wp-content/uploads/2015/07/10-awesome-things-every-custom-built-house-needs-1.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/chrisod1/Chris-Chrome/master/FRESH%205</externallink>
-</channel>
-</channel>
   
 <channel>
       <name>[COLOR red]R[/COLOR]ECOMMENDED MOVIE[COLOR red]S[/COLOR]</name>
@@ -43,6 +35,24 @@
   <fanart>http://socialnewsdaily.com/wp-content/uploads/2015/07/10-awesome-things-every-custom-built-house-needs-1.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/chrisod1/Chris-Chrome/master/Recommended.xml</externallink>
+</channel>
+</channel>
+
+  <channel>
+      <name>[COLOR red]-----=====\\\\\//////=====-----[/COLOR]</name>
+  <thumbnail>h</thumbnail>
+<fanart>UKUK</fanart>
+<link>http://ignoreme</link>
+   <externallink>KUKK</externallink>
+</channel>
+  </channels>
+
+ <channel>
+      <name>[COLOR red]F[/COLOR]RESH FIV[COLOR red]E[/COLOR]</name>
+  <thumbnail>http://downloadicons.net/sites/default/files/number-5-icon-63213.png</thumbnail>
+  <fanart>http://socialnewsdaily.com/wp-content/uploads/2015/07/10-awesome-things-every-custom-built-house-needs-1.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/chrisod1/Chris-Chrome/master/FRESH%205</externallink>
 </channel>
 </channel>
 
