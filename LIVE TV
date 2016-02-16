@@ -8,7 +8,7 @@
 			
 			
 			<item>
-			<title>Mega Kids</title>
+			<title>Mega Kids55</title>
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_kids live=1 timeout=20</link>
 			<regex>
 			<name>clearCode</name>
@@ -42,7 +42,7 @@
 			
 			<item>
 			<title>Katty HD</title>
-			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_katyhd live=1 timeout=20</link>
+			<link>http://167.114.102.27/live/YOggiFmUsTOLmRp1LuULNg/1455637546/4a1a27296188c273f6733ead4fe4eff6.m3u8</link>
 			<regex>
 			<name>clearCode</name>
 			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
@@ -61,7 +61,7 @@
 			<regex>
 			<name>getUrl</name>
 			<expres>(.*)</expres>
-			<page>http://mvn.vaughnsoft.net/video/edge/live_katyhd$doregex[gettime]-$doregex[gettime].33434</page>
+			<page>https://www.arconaitv.me/got/</page>
 			</regex>
 			<regex>
 			<name>gettime</name>
