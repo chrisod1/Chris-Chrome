@@ -1,13 +1,4 @@
-<channel>
-    <name>[COLOR=green]-----[/COLOR][COLOR=gold]► MOVIES  -  24/7 - ALL DAY [/COLOR][COLOR blue]DUAL AUDIO[/COLOR][COLOR=green]-----[/COLOR]</name>
-    <thumbnail>http://</thumbnail>
-    <fanart>http://</fanart>
-        <items>
-            
-			<item><title>[COLOR=green]-----[/COLOR][COLOR=gold]MOVIES  - 24/7 - DUAL AUDIO[/COLOR][COLOR=green]-----[/COLOR]</title><link></link></item>
-			
-			
-			<item>
+<item>
 			<title>Mega Kids55</title>
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_kids live=1 timeout=20</link>
 			<regex>
