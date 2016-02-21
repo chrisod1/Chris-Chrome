@@ -1,1 +1,398 @@
 
+ #EXTM3U
+ 
+ #EXTINF:-1,[COLOR green]— SPORTS CHANNELS —[/COLOR]
+    http://212.200.101455
+    #EXTINF:0,Eurosport 1 uk
+     http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
+     #EXTINF:0,Eurosport 2 uk
+     http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
+     #EXTINF:0,SkySport 1
+     http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
+     #EXTINF:0,SkySport2
+     http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
+     #EXTINF:0,SkySport 3
+     http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
+     #EXTINF:0,SkySport 4
+     http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
+     #EXTINF:0,SkySport 5
+     http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
+     #EXTINF:0,SkySport F1
+     http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
+     #EXTINF:0, BT Sport Europe
+     http://195.154.226.186:1935/livepp7/bteulsh/playlist.m3u8
+     #EXTINF:0,BT Sport 1
+     http://195.154.226.186:1935/livepp7/btsports1lsh/playlist.m3u8
+     #EXTINF:0,BT Sport 2
+     http://195.154.226.186:1935/livepp7/btsports2lsh/playlist.m3u8
+     #EXTINF:0, beIN Sports 1 HD
+     http://195.154.226.186:1935/livepp7/bein1frlsh/playlist.m3u8
+     #EXTINF:0,beIN Sports 2 HD
+     http://195.154.226.186:1935/livepp7/bein2frlsh/playlist.m3u8
+     #EXTINF:0,ESPN UK
+     http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
+     #EXTINF:0,Premier sports
+     http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
+     #EXTINF:0,ArenaSport 1
+     http://195.154.226.186:1935/livepp7/arhd1lsh/playlist.m3u8
+     #EXTINF:0,ArenaSport 2
+     http://195.154.226.186:1935/livepp7/arhd2lsh/playlist.m3u8
+     #EXTINF:0,ArenaSport 3
+     http://195.154.226.186:1935/livepp7/arhd3lsh/playlist.m3u8
+     #EXTINF:0,ArenaSport 4
+     http://195.154.226.186:1935/livepp7/arhd4lsh/playlist.m3u8
+     #EXTINF:0,SportKlub 1
+     http://195.154.226.186:1935/livepp7/skhd1lsh/playlist.m3u8
+     #EXTINF:0,SportKlub 2
+     http://195.154.226.186:1935/livepp7/skhd2lsh/playlist.m3u8
+     #EXTINF:0,SportKlub 3
+     http://195.154.226.186:1935/livepp7/skhd3lsh/playlist.m3u8
+    #EXTINF:-1, BEIN SPORT 1 HD
+    http://95.211.211.164/tv/bein1.stream/index.m3u8
+    #EXTINF:-1, BEIN SPORT 2 HD
+    http://95.211.211.164/tv/bein2.stream/index.m3u8
+    #EXTINF:-1, BEIN SPORT 3 HD
+    http://95.211.211.164/tv/bein3.stream/index.m3u8
+    #EXTINF:-1, BEIN SPORT 4 HD
+    http://95.211.211.164/tv/bein4.stream/index.m3u8
+    #EXTINF:-1, Dolce Sport 1
+    http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+    #EXTINF:-1, Dolce Sport 2
+    http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+    #EXTINF:-1, Dolce Sport 3
+    http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
+    #EXTINF:-1,Eurosport
+    http://4.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
+    #EXTINF:-1,Eurosport 2
+    http://4.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+    EXTINF:-1,Supersport News
+    http://176.10.104.216/ss1sd/index.m3u8
+    #EXTINF:-1,Supersport 28
+    #EXTINF:-1,Supersport 3
+    http://176.10.104.216:8080/ss3sd/index.m3u8
+    #EXTINF:-1,Supersport 4
+    http://176.10.104.216:8080/ss4sd/index.m3u8
+    #EXTINF:-1,Supersport 5
+    http://176.10.104.216:8080/ss5sd/index.m3u8
+    #EXTINF:-1,Supersport 6
+    http://176.10.104.216/ss6sd/index.m3u8
+    #EXTINF:-1,Supersport News HD
+    http://176.10.104.216:8080/ss1hd/index.m3u8
+    #EXTINF:-1,Supersport 2 HD
+    http://46.234.100.41:8080/ss2hd/index.m3u8
+    #EXTINF:-1,Supersport 3 HD
+    http://176.10.104.216/ss3hd/index.m3u8
+    #EXTINF:-1,Supersport 4 HD
+    http://176.10.104.216:8080/ss4hd/index.m3u8
+    #EXTINF:-1,Supersport 5 HD
+    http://176.10.104.216/ss5hd/index.m3u8
+    #EXTINF:-1,Supersport 6 HD
+    http://176.10.104.216:8080/ss6hd/index.m3u8
+    #EXTINF:-1,Arena 1
+    http://212.200.101.3:5000/udp/237.0.0.1:5000
+    #EXTINF:-1,Arena 2
+    http://212.200.101.3:5000/udp/237.0.0.2:5000
+    #EXTINF:-1,Arena 3
+    http://212.200.101.3:5000/udp/237.0.0.3:5000
+    #EXTINF:-1,Arena 4
+    http://212.200.101.3:5000/udp/237.0.0.4:5000
+    #EXTINF:-1,Fight Network HD
+    http://212.200.101.3:5000/udp/237.0.0.60:5000
+    #EXTINF:-1,ESP Serbia
+    http://212.200.101.3:5000/udp/237.0.0.39:5000
+    #EXTINF:-1,ESP2 Serbia
+    http://212.200.101.3:5000/udp/237.0.0.40:5000
+    #EXTINF:-1,Sport Klub 2
+    http://212.200.101.3:5000/udp/237.0.0.37:5000
+    #EXTINF:-1,Sport Klub 3
+    http://212.200.101.3:5000/udp/237.0.0.38:5000
+    #EXTINF:0,ESPN +
+    http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,ESPN 3
+    http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,FOX SPORTS
+    http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,FOX SPORTS 2
+    http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,PX
+    http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,ESPN
+    http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,ESPN 2
+    http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,ESPN + HD
+    http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,ESPN 3 HD
+    http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,FOX SPORTS HD
+    http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,FOX SPORTS 2 HD
+    http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,PX HD
+    http://200.76.77.237/LIVE/H01/CANAL528/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,ESPN HD
+    http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:0,ESPN 2 HD
+    http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+    #EXTINF:-1,[COLOR green]— US CHANNELS —[/COLOR]
+    http://0.0.0.0:1234HHY
+    #EXTINF:-1 group-title=”Entertainment” tvg-logo=”http://channelpear.com/images/media/875.png”, Syfy (EN)
+    http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
+    #EXTINF:-1 group-title=”Entertainment” tvg-logo=”http://channelpear.com/images/media/8554.jpg”,Sci-Fi Series and Movies
+    http://iphone-streaming.ustream.tv/ustreamVideo/20752580/streams/live/playlist.m3u8
+    #EXTINF:-1 group-title=”Documentary” tvg-logo=”http://img4.wikia.nocookie.net/__cb20130723131020/logopedia/images/d/d6/Nat_Geo_Wild_logo.png”, Nat Geo Wild (some buffer)
+    http://top-iptv.zapto.org:8000/live/adem/adem/559.m3u8
+    #EXTINF:-1 group-title=”Documentary” tvg-logo=”http://channelpear.com/images/media/5141.jpg”, Genesis Science Network
+    http://genesis.tulix.tv:1935/live/Stream1/playlist.m3u8
+    #EXTINF:-1 group-title=”Documentary” tvg-logo=”http://i.imgur.com/8i73Fnl.jpg”, RT Documentary
+    http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+    #EXTINF:-1 group-title=”Documentary” tvg-logo=”http://channelpear.com/images/media/6803.jpg”, UFO Channel
+    http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
+    #EXTINF:-1 group-title=”Documentary” tvg-logo=”http://channelpear.com/images/media/102.png”, World Fashion Channel
+    http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+    #EXTINF:-1 group-title=”Documentary” tvg-logo=”http://channelpear.com/images/media/3807.jpg”, NASA TV
+    http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+    #EXTINF:-1 group-title=”Entertainment” tvg-logo=”http://channelpear.com/images/media/6677.jpg”, At The Drive-In
+    http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
+    #EXTINF:-1, CNBC
+    http://www.daili.ml/fetch.php/wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+    #EXTINF:-1, FOX NFL
+    http://185.63.255.101/live/max12/playlist.m3u8
+    #EXTINF:0, NFL Network HD
+    http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+    #EXTINF:0, NFL Now HD
+    http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+    #EXTINF:-1, Big Ten Network HD
+    http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+    #EXTINF:-1, NASA HD
+    http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+    #EXTINF:-1, University of California TV
+    rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+    #EXTINF:0,WGN
+    http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+    #EXTINF:0,NASA TV
+    http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+    #EXTINF:0,Weather Channel US
+    http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+    #EXTINF:-1, Cartoon Network
+    http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+    #EXTINF:-1, HBO Plus
+    rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
+    #EXTINF:-1, HSN
+    rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+    #EXTINF:-1, HSN 2
+    rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+    #EXTINF:-1, News 12 Long Island(Stream 1)
+    rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+    #EXTINF:-1, News Bronx(Stream 1)
+    rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+    #EXTINF:-1, News Bronx(Weather)
+    rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+    #EXTINF:-1, News Brooklyn(Stream 1)
+    rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+    #EXTINF:-1, News Brooklyn(Weather)
+    rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+    #EXTINF:-1, News Connecticut(Stream 1)
+    rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+    #EXTINF:-1, News Connecticut(Weather)
+    rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+    #EXTINF:-1, News Hudson Valley(Stream 1)
+    rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+    #EXTINF:-1,News Hudson Valley(Weather)
+    rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+    #EXTINF:-1,News Long Island(Stream 2)
+    rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+    #EXTINF:-1, News Long Island(Weather)
+    rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+    #EXTINF:-1, News New Jersey(Stream 1)
+    rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+    #EXTINF:-1, News New Jersey(Weather)
+    rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+    #EXTINF:-1, News Westchester(Stream 1)
+    rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+    #EXTINF:-1, News Westchester(Weather from Hudson Valley)
+    rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+    #EXTINF:-1, RoswellLive US
+    mms://roswell.ecstreams.com/RoswellLive
+    #EXTINF:-1, The Florida Channel
+    rtmp://webcasting.thefloridachannel.org/live/tvweb1
+    #EXTINF:-1, University of California TV
+    rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+    #EXTINF:-1, TWiT Live
+    http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+    #EXTINF:0, Sports Net 360
+    http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/62.m3u8
+    #EXTINF:-1, NBC GOLF SD
+    http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+    #EXTINF:-1, NBC GOLF 720p
+    http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+    #EXTINF:-1, NBC GOLF 1080p
+    http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+    #EXTINF:-1,NBC Sports Network 1080P
+    http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+    #EXTINF:-1,USA Live TV Big Ten Network
+    http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+    #EXTINF:0,PAC-12 Net. (Arizona)
+    http://xrxs.net/video/live-p12ariz-4728.m3u8?
+    #EXTINF:0,PAC-12 Net. (Bay Area)
+    http://xrxs.net/video/live-p12baya-4728.m3u8?
+    #EXTINF:0,PAC-12 Net. (Los Angeles)
+    http://xrxs.net/video/live-p12losa-4728.m3u8?
+    #EXTINF:0,PAC-12 Net. (Moutain)
+    http://xrxs.net/video/live-p12moun-4728.m3u8?
+    #EXTINF:0,PAC-12 Net. (Oregon)
+    http://xrxs.net/video/live-p12oreg-4728.m3u8?
+    #EXTINF:0,PAC-12 Net. (Washington)
+    http://xrxs.net/video/live-p12wash-4728.m3u8?
+    #EXTINF:-1,USA-BASKET UNI.(Arizona)
+    http://xrxs.net/video/live-p12ariz-1164.m3u8
+    #EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+    http://xrxs.net/video/live-p12losa-1164.m3u8
+    #EXTINF:-1,USA-BASKET UNI.(Moutain)
+    http://xrxs.net/video/live-p12moun-1164.m3u8
+    #EXTINF:-1,USA-BASKET UNI.(Oregon)
+    http://xrxs.net/video/live-p12oreg-1164.m3u8
+    #EXTINF:-1,USA-BASKET UNI.(Washington)
+    http://xrxs.net/video/live-p12wash-2328.m3u8
+    #EXTINF:-1, [COLOR yellow]— MUSIC —[/COLOR]
+    #EXTINF:-1,Vevo1 HD
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+    #EXTINF:-1,Vevo2 HD
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+    #EXTINF:-1,Vevo3 HD
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+    #EXTINF:-1,Kiss Tv Music
+    rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+    #EXTINF:-1, [COLOR blue]—NEWS—[/COLOR]
+    #EXTINF:-1,ABC News
+    http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+    #EXTINF:-1,ABC News (stream 2)
+    http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+    #EXTINF:-1, CNBC
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+    #EXTINF:1,CNN USA
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+    #EXTINF:-1, Bloomberg
+    http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+    #EXTINF:-1, RT America
+    http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
+    #EXTINF:-1,News 12 Long Island(Stream 1)
+    rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+    #EXTINF:-1,News Bronx(Stream 1)
+    rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+    #EXTINF:-1,News Bronx(Weather)
+    rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+    #EXTINF:-1,News Brooklyn(Stream 1)
+    rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+    #EXTINF:-1,News Connecticut(Stream 1)
+    rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+    #EXTINF:-1,News Connecticut(Weather)
+    rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+    #EXTINF:-1,News Hudson Valley(Stream 1)
+    rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+    #EXTINF:-1,News Hudson Valley(Weather)
+    rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+    #EXTINF:-1,News Long Island(Stream 2)
+    rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+    #EXTINF:-1,News Long Island(Weather)
+    rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+    #EXTINF:-1,News New Jersey(Stream 1)
+    rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+    #EXTINF:-1,News New Jersey(Weather)
+    rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+    #EXTINF:-1,News Westchester(Stream 1)
+    rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+    #EXTINF:-1,[COLOR yellow][I][B]UK CHANNELS[/B][/I][/COLOR]
+    http://0.0.0.0:1234H
+    #EXTINF:-1, [I][B]ITV 1[/B][/I]
+    http://top-iptv.zapto.org:8000/live/adem/adem/645.m3u8
+    #EXTINF:-1, [I][B]ITV 2[/B][/I]
+    http://top-iptv.zapto.org:8000/live/adem/adem/644.m3u8
+    #EXTINF:-1, [I][B]ITV 3[/B][/I]
+    http://top-iptv.zapto.org:8000/live/adem/adem/643.m3u8
+    #EXTINF:-1, [I][B]ITV 4[/B][/I]
+    http://top-iptv.zapto.org:8000/live/adem/adem/641.m3u8
+    #EXTINF:-1, Sky.Movies.Family
+    http://iptv.electro-clair.net:8000/live/zizo/zizo/1192.m3u8
+ 
+        #EXTINF:-1, Sky.Movies.Comedy
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1193.m3u8
+        #EXTINF:-1, Sky.Movies.Action
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1194.m3u8
+        #EXTINF:-1, Movies.Modern.HD
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1189.m3u8
+        #EXTINF:-1, Sky.Movies.Select
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1190.m3u8
+        #EXTINF:-1, Sky.Movies.Sci-Fi
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1191.m3u8
+        #EXTINF:-1, VH1
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1796.m3u8
+        #EXTINF:-1, Sony-Movies
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1797.m3u8
+        #EXTINF:-1, SKY-Sports-F1-HD
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1800.m3u8
+        #EXTINF:-1, Setanta-Ireland
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1799.m3u8
+        #EXTINF:-1, Premier-Sports
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1795.m3u8
+        #EXTINF:-1, Sky.Movies.Premiere
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1702.m3u8
+        #EXTINF:-1, Sky.Movies.Greats
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1703.m3u8
+        #EXTINF:-1, Sky.Movies.Drama
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1704.m3u8
+        #EXTINF:-1, Sky.Movies.Disney
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1705.m3u8
+        #EXTINF:-1, Sky.Movies.Comedy.Central
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1706.m3u8
+        #EXTINF:-1,SKY Sky-One
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1362.m3u8
+        #EXTINF:-1, Gold
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1762.m3u8
+        #EXTINF:-1, Drama
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1763.m3u8
+        #EXTINF:-1, Disney.Junior
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1764.m3u8
+        #EXTINF:-1, Disney.Channel
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1765.m3u8
+        #EXTINF:-1,SKY Sky-Arts1
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1363.m3u8
+        #EXTINF:-1, BBC.TWO
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1707.m3u8
+        #EXTINF:-1, BBC.Three
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1708.m3u8
+        #EXTINF:-1, BBC.One
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1709.m3u8
+        #EXTINF:-1, BBC.Four
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1711.m3u8
+        #EXTINF:-1, Nat.Geo
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1761.m3u8
+        #EXTINF:-1, NATIONAL-GEO
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1793.m3u8
+        #EXTINF:-1, ANIMAL-PLANET
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1794.m3u8
+        #EXTINF:-1, Discovery.Science
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1766.m3u8
+        #EXTINF:-1, Discovery.History
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1767.m3u8
+        #EXTINF:-1,UK.DiscoveryHD
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1768.m3u8
+        #EXTINF:-1, Discovery
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1403.m3u8
+        #EXTINF:-1, National.Geography.Wild
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1402.m3u8
+        #EXTINF:-1, Sport-News
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1798.m3u8
+        #EXTINF:-1, BT-Sport 1
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1789.m3u8
+        #EXTINF:-1, BT-Sport 2
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1790.m3u8
+        #EXTINF:-1, BT-Sport-EU
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1791.m3u8
+        #EXTINF:-1, ITV1.HD
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1396.m3u8
+        #EXTINF:-1, ITV2.HD
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1397.m3u8
+        #EXTINF:-1, ITV3.HD
+        http://iptv.electro-clair.net:8000/live/zizo/zizo/1398.m3u8
+        #EXTINF:-1, ITV4.HD
