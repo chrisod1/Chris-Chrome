@@ -86,7 +86,7 @@
   <thumbnail>h</thumbnail>
 <fanart>UKUK</fanart>
 <link>http://ignoreme</link>
-   <jsonrpc>plugin://plugin.program.chrischrome</jsonrpc>
+   <jsonrpc>plugin://plugin.video.bigbucket</jsonrpc>
 </channel>
   </channels>
   
