@@ -38,28 +38,16 @@
 <thumbnail>http://ecx.images-amazon.com/images/I/51F1MYY6Q3L.jpg</thumbnail>
 </item>
 
-
-
 <item>
-<title>[COLOR red]-----=====\\\\\MOVIES/DOCS//////=====-----[/COLOR]</title>
-<link>http%3A%2F%2Fs6.iptvapi.com%3A8081%2FLFCTV%2Findex.m3u8%3Ftoken%3DsQ_ZlzvkH4W0LDq17Tuzng%26e%3D1456315884%26u%3D58994</link>
-<thumbnail>FFD6F</thumbnail>
+<title>[COLOR red]-----=====\\\\\EVERYONES LIVERPOOL BY @_SIMTECH_//////=====-----[/COLOR]</title>
+<link>GRGR</link>
+<thumbnail>FFDF</thumbnail>
 </item>
 
-<item>
-<title>LIVERPOOL - DOCUMENTARY (FOOTBALL'S GREATEST TEAMS)</title>
-<utube>OXkiwtX8gOg</utube>
-<thumbnail>https://imageshack.com/f/79zliverbird1doubleplastibz7j</thumbnail>
-</item>
 
 <item>
-<title>REDS & BLUES</title>
-<link>https://lh3.googleusercontent.com/zv95wUgyD3BQSfzfwnkcfACiPHtpC5Lsmn_ypzWg-Q=m18?cpn=Se8Pf4X2XmLw1SDU&c=WEB&cver=html5</link>
-<thumbnail>http://pics.filmaffinity.com/Reds_Blues_The_Ballad_of_Dixie_Kenny-606090021-large.jpg</thumbnail>
-</item>
-
-<item>
-<title>ONE NIGHT IN ISTANBUL</title>
-<link>https://lh3.googleusercontent.com/vnoB-v5ftcyKtOkHX4yXQtd8ra9ImZpYGd9DnQJH7Dg=m18</link>
-<thumbnail>http://www.alfamovie.com/wp-content/uploads/v_p_images/0000/00/2160764_cover.jpg.jpg</thumbnail>
+<title>[COLOR red]EVERYONES LIVERPOOL[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.simtech</jsonrpc>
+<thumbnail>http://www.designfootball.com/design-galleries/football-crests/orig-lfc-badge-copied-from-brokr151s-badge-inspired-by-kitsters-6078</thumbnail>
 </item>
