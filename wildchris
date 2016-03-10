@@ -68,7 +68,7 @@
   <thumbnail>h</thumbnail>
 <fanart>UKUK</fanart>
 <link>http://ignoreme</link>
-   <externallink>ht67</externallink>
+   <jsonrpc>plugin://plugin.program.chrischrome</jsonrpc>
 </channel>
   </channels>
   
