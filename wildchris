@@ -1,13 +1,5 @@
 <channels>
 
- <channel>
-      <name>[COLOR red]-----=====\\\\\//////=====-----[/COLOR]</name>
-  <thumbnail>h</thumbnail>
-<fanart>UKUK</fanart>
-<link>http://ignoreme</link>
-   <externallink>KUKK</externallink>
-</channel>
-  </channels>
   
    <channel>
       <name>[COLOR red]VODPASS @VODPASS ON TWITTER[/COLOR]</name>
@@ -18,15 +10,7 @@
 </channel>
   </channels>
   
-  
- <channel>
-      <name>[COLOR red]-----=====\\\\\//////=====-----[/COLOR]</name>
-  <thumbnail>h</thumbnail>
-<fanart>UKUK</fanart>
-<link>http://ignoreme</link>
-   <externallink>KUKK</externallink>
-</channel>
-  </channels>
+
   
    <channel>
       <name>[COLOR red]2[/COLOR]4/7 HEAVE[COLOR red]N[/COLOR]</name>
@@ -37,14 +21,7 @@
 </channel>
   </channels>
 
-  <channel>
-      <name>[COLOR red]-----=====\\\\\//////=====-----[/COLOR]</name>
-  <thumbnail>h</thumbnail>
-<fanart>UKUK</fanart>
-<link>http://ignoreme</link>
-   <externallink>KUKK</externallink>
-</channel>
-  </channels>
+
   
   <channel>
       <name>[COLOR red]R[/COLOR]ECOMMENDED MOVIE[COLOR red]S[/COLOR]</name>
@@ -55,14 +32,7 @@
 </channel>
 </channel>
 
-  <channel>
-      <name>[COLOR red]-----=====\\\\\//////=====-----[/COLOR]</name>
-  <thumbnail>h</thumbnail>
-<fanart>UKUK</fanart>
-<link>http://ignoreme</link>
-   <externallink>KUKK</externallink>
-</channel>
-  </channels>
+ 
 
  <channel>
       <name>[COLOR red]F[/COLOR]RESH FIV[COLOR red]E[/COLOR]</name>
@@ -82,14 +52,6 @@
 </channel>
   </channels>
 
-<channel>
-      <name>[COLOR red]-----=====\\\\\//////=====-----[/COLOR]</name>
-  <thumbnail>h</thumbnail>
-<fanart>UKUK</fanart>
-<link>http://ignoreme</link>
-   <externallink>KUKK</externallink>
-</channel>
-  </channels>
   
 <channel>
       <name>[COLOR red]L[/COLOR]F[COLOR red]C[/COLOR]</name>
@@ -100,14 +62,7 @@
 </channel>
   </channels>
   
-  <channel>
-      <name>[COLOR red]-----=====\\\\\//////=====-----[/COLOR]</name>
-  <thumbnail>h</thumbnail>
-<fanart>UKUK</fanart>
-<link>http://ignoreme</link>
-   <jsonrpc>plugin://plugin.video.bigbucket</jsonrpc>
-</channel>
-  </channels>
+
   
 
 <item>
