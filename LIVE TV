@@ -14,7 +14,7 @@
 
 #EXTINF: -1,[COLOR lime]FEATURED MOVIES: For kids only[/COLOR]
 
-#EXTINF:-1,Frozen fever
+#EXTINF:-1,Frozen fever, tvg-logo="http://pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg" 
 http://usersmovies.doesntexist.com/kids/Frozen%20Fever%20(2015).avi 
 
 #EXTINF:-1,Tomorrowland 1080p
