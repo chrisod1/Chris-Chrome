@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-
-<item>
-<title>[COLOR red]-----=====\\\\\24/7 HEAVEN//////=====-----[/COLOR]</title>
-<link>GRGR</link>
-<thumbnail>FFDF</thumbnail>
-</item>
- 
 <item>
 <title>SIMPSONS</title>
 <link>http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8</link>
@@ -29,5 +22,13 @@
 <referer>https://www.arconaitv.me/</referer>
 <thumbnail>http://orangefloorstudio.com/wp/wp-content/uploads/2013/04/ofs_work_breaking_bad_poster.jpg</thumbnail>
 <fanart>http://english.colorado.edu/wp-content/uploads/2014/10/artworks-000076104410-g63cw3-original.png</fanart>
+</item>
+
+<item>
+<title>STORAGE WARS</title>
+<vaughn>lmshows_hps</vaughn>
+<referer>https://www.arconaitv.me/</referer>
+<thumbnail>http://static.tvgcdn.net/rovi/showcards/tvshow/308169/thumbs/16924151_1300x1733.jpg</thumbnail>
+<fanart>http://www.jotihunt.net/upload/images/StorageWarsS05E07.jpg</fanart>
 </item>
 
