@@ -1,17 +1,6 @@
 <channels>
 
-  
-   <channel>
-      <name>[COLOR red]VODPASS @VODPASS ON TWITTER[/COLOR]</name>
-  <thumbnail>https://pbs.twimg.com/profile_images/671507440685309953/eyEH3xtO.png</thumbnail>
-<fanart>UKUK</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/vodpass/vodpass/master/playlist/m3u_vodpass.m3u</externallink>
-</channel>
-  </channels>
-  
 
-  
    <channel>
       <name>[COLOR red]2[/COLOR]4/7 HEAVE[COLOR red]N[/COLOR]</name>
   <thumbnail>h</thumbnail>
@@ -53,24 +42,7 @@
   </channels>
 
   
-<channel>
-      <name>[COLOR red]L[/COLOR]F[COLOR red]C[/COLOR]</name>
-  <thumbnail>http://s22.postimg.org/yjudel36p/lfchdjhd.png</thumbnail>
-<fanart>http://www.thisisanfield.com/wp-content/uploads/mainstand_internal.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/chrisod1/Chris-Chrome/master/lfc%20match</externallink>
-</channel>
-  </channels>
-  
 
-  
-
-<item>
-<title>EVERYONES LIVERPOOL ADDON BY @_SIMTECH_ FOLLOW HIM - DOWNLOAD FROM REPO</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.bigbucket</jsonrpc>
-<thumbnail>http://www.designfootball.com/design-galleries/football-crests/orig-lfc-badge-copied-from-brokr151s-badge-inspired-by-kitsters-6078</thumbnail>
-</item>
   
   
   
