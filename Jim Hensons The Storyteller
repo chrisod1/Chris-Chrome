@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>Storage Wars</title>
+<title>Season 1</title>
 <link>ignoreme</link>
 <thumbnail>11</thumbnail>
 </item>
@@ -19,15 +19,15 @@
 </item>
 
 <item>
-<title>Episode01 - High Noon in the High Desert</title>
+<title>Episode03 - Railroad Roulette</title>
 <thumbnail>http://s.sidereel.com/tv_shows/49520/giant_2x/storage_wars_s8_vertical1.jpg</thumbnail>
-<link>http://storage.realitytelevisionportal.eu/warsodes/season1/StorageWarsS01E01.flv</link>
+<link>http://storage.realitytelevisionportal.eu/warsodes/season1/StorageWarsS01E03.flv</link>
 </item>
 
 <item>
-<title>Episode01 - High Noon in the High Desert</title>
+<title>Episode04 - War on the Shore</title>
 <thumbnail>http://s.sidereel.com/tv_shows/49520/giant_2x/storage_wars_s8_vertical1.jpg</thumbnail>
-<link>http://storage.realitytelevisionportal.eu/warsodes/season1/StorageWarsS01E01.flv</link>
+<link>http://storage.realitytelevisionportal.eu/warsodes/season1/StorageWarsS01E04.flv</link>
 </item>
 
 
