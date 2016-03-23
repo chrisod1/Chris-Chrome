@@ -3,7 +3,6 @@
 <item>
 <title>SIMPSONS</title>
 <link>http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8</link>
-<referer>https://www.arconaitv.me/</referer>
 <thumbnail>https://www.arconaitv.me/wp-content/uploads/2015/06/22.png</thumbnail>
 <fanart>https://thesimpsonsfiles.files.wordpress.com/2015/06/9820-the-simpsons-the-simpsons.jpg</fanart>
 </item>
@@ -11,7 +10,6 @@
 <item>
 <title>SOUTH PARK</title>
 <link>http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8</link>
-<referer>https://www.arconaitv.me/</referer>
 <thumbnail>https://www.arconaitv.me/wp-content/uploads/2015/06/23.png</thumbnail>
 <fanart>https://ubistatic9-a.akamaihd.net/ubicomstatic/en-US/global/media/south_park_ss2_full_162934.jpg</fanart>
 </item>
@@ -19,7 +17,6 @@
 <item>
 <title>SPONGEBOB</title>
 <link>http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8</link>
-<referer>https://www.arconaitv.me/</referer>
 <thumbnail>http://cdn.europosters.eu/image/750/posters/spongebob-group-i10223.jpg</thumbnail>
 <fanart>https://images8.alphacoders.com/289/289969.jpg</fanart>
 </item>
@@ -27,7 +24,6 @@
 <item>
 <title>BOBS BURGERS</title>
 <link>http://iptvnation.com/bobs.mp4</link>
-<referer>https://www.arconaitv.me/</referer>
 <thumbnail>https://www.arconaitv.me/wp-content/uploads/2015/06/6.png</thumbnail>
 <fanart>http://cdn.playbuzz.com/cdn/56e36749-8a11-4d9a-8069-032e1941c8e7/65c4c7a3-3576-4441-a111-f94e646c8460.jpg</fanart>
 </item>
@@ -35,7 +31,6 @@
 <item>
 <title>FAMILY GUY</title>
 <link>http://iptvnation.com/familyguy.mp4</link>
-<referer>https://www.arconaitv.me/</referer>
 <thumbnail>https://www.arconaitv.me/wp-content/uploads/2015/06/8.png</thumbnail>
 <fanart>http://tvnewsroom.site/entertainment/wp-content/uploads/2016/02/Family-Guy-on-ITV2.jpg</fanart>
 </item>
@@ -43,7 +38,6 @@
 <item>
 <title>BREAKING BAD</title>
 <vaughn>0_breakingbad</vaughn>
-<referer>https://www.arconaitv.me/</referer>
 <thumbnail>http://orangefloorstudio.com/wp/wp-content/uploads/2013/04/ofs_work_breaking_bad_poster.jpg</thumbnail>
 <fanart>http://english.colorado.edu/wp-content/uploads/2014/10/artworks-000076104410-g63cw3-original.png</fanart>
 </item>
@@ -51,7 +45,6 @@
 <item>
 <title>STORAGE WARS</title>
 <vaughn>lmshows_hps</vaughn>
-<referer>https://www.arconaitv.me/</referer>
 <thumbnail>http://static.tvgcdn.net/rovi/showcards/tvshow/308169/thumbs/16924151_1300x1733.jpg</thumbnail>
 <fanart>http://www.jotihunt.net/upload/images/StorageWarsS05E07.jpg</fanart>
 </item>
