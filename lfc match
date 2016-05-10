@@ -1,56 +1,26 @@
-<poster>LFC LIFE</poster>
-<fanart>http://fc04.deviantart.net/fs71/i/2012/328/c/9/liverpool_fc_wallpaper_by_meridiann-d5m06mv.jpg</fanart>
+#######################################################################################################################################
+<poster></poster>
+<fanart></fanart>
 #######################################################################################################################################
 
 <item>
-<title>[COLOR red]-----=====\\\\\RECENT MATCH HIGHLIGHTS//////=====-----[/COLOR]</title>
-<link>GRGR</link>
-<thumbnail>FFDF</thumbnail>
-</item>
-
-<item>
-<title>LIVERPOOL VS MAN CITY 3-0 2/3/16</title>
-<utube>PtSPZLN1FiU</utube>
-<thumbnail>http://i2.mirror.co.uk/incoming/article7482298.ece/ALTERNATES/s615b/Liverpool-v-Manchester-City.jpg</thumbnail>
-</item>
-
-<item>
-<title>LIVERPOOL VS ASTON VILLA 6-0 14/2/16</title>
-<utube>LwJ4YNGrmIk</utube>
-<thumbnail>http://www.thisisanfield.com/wp-content/uploads/P160214-025-Aston_Villa_Liverpool-1200x816.jpg</thumbnail>
-</item>
-
-<item>
-<title>LIVERPOOL VS NORWICH 5-4 23/1/2016</title>
-<utube>SdnQtsDA_KI</utube>
-<thumbnail>http://i1.mirror.co.uk/incoming/article7232081.ece/ALTERNATES/s1227b/Norwich-City-v-Liverpool.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]-----=====\\\\\ SPECIAL MATCH HIGHLIGHTS//////=====-----[/COLOR]</title>
-<link>GRGR</link>
-<thumbnail>FFDF</thumbnail>
-</item>
-
-<item>
-<title>ISTANBUL</title>
-<utube>tnB4XAhl6PY</utube>
-<thumbnail>http://ecx.images-amazon.com/images/I/51F1MYY6Q3L.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]-----=====\\\\\EVERYONES LIVERPOOL BY @_SIMTECH_//////=====-----[/COLOR]</title>
-<link>GRGR</link>
-<thumbnail>FFDF</thumbnail>
+<title>FACES OF DEATH</title>
+<link>https://www.youtube.com/watch?v=q_zPIZ-pd5E</link>
+<thumbnail>http://i68.tinypic.com/2rypv83.png</thumbnail>
+<fanart>http://www.xboxachievements.com/images/news/evolve_gorgon.jpg</fanart>
 </item>
 
 
-
-
+<item>
+<title>FACES OF DEATH 2</title>
+<link>https://www.youtube.com/playlist?list=PLUVO4uA5I-U8a2iIRw3W9rcIoXSyFyEi6</link>
+<thumbnail>http://s16.postimg.org/5hmh81a91/orl.png</thumbnail>
+<fanart>http://www.xboxachievements.com/images/news/evolve_gorgon.jpg</fanart>
+</item>
 
 <item>
-<title>EVERYONES LIVERPOOL ADDON BY @_SIMTECH_ FOLLOW HIM - DOWNLOAD FROM MY REPO</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.simtech</jsonrpc>
-<thumbnail>http://www.designfootball.com/design-galleries/football-crests/orig-lfc-badge-copied-from-brokr151s-badge-inspired-by-kitsters-6078</thumbnail>
+<title>FACES OF DEATH 3</title>
+<link>https://www.youtube.com/playlist?list=PLUVO4uA5I-U8a2iIRw3W9rcIoXSyFyEi6</link>
+<thumbnail>http://s16.postimg.org/5hmh81a91/orl.png</thumbnail>
+<fanart>http://www.xboxachievements.com/images/news/evolve_gorgon.jpg</fanart>
 </item>
